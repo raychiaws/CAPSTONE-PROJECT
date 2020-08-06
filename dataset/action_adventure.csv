@@ -1,0 +1,985 @@
+Rank,Name,Genre,Platform,Publisher,Developer,Vgchartz_Score,Critic_Score,User_Score,Total_Shipped,Total_Sales,NA_Sales,PAL_Sales,JP_Sales,Other_Sales,Release_Date,Last_Update
+1,Grand Theft Auto,,Series,ASC Games,Rockstar North|Rockstar Leeds|Digital Eclipse,,,,310000000.0,,,,,,1998-03-27 00:00:00,2020-02-03
+2,Assassin's Creed,,Series,Ubisoft,Ubisoft|Gameloft|Griptonite Games|Blue Byte,,,,140000000.0,,,,,,2007-11-13 00:00:00,2020-02-11
+3,The Legend of Zelda,,Series,Nintendo,Nintendo,,,,107070000.0,,,,,,1987-07-14 00:00:00,2020-02-03
+4,Lego,,Series,Mindscape,TT Fusion,,,,104300000.0,,,,,,1997-09-26 00:00:00,2020-03-01
+5,Resident Evil,,Series,Capcom,Capcom,,,,100000000.0,,,,,,1996-03-30 00:00:00,2020-02-03
+6,Tomb Raider,,Series,Eidos Interactive,Core Design|Crystal Dynamics|Nixxes Software|Ubisoft Milan|Eidos Montreal,,,,75000000.0,,,,,,1996-11-14 00:00:00,2020-02-27
+7,Metal Gear,,Series,Konami,Konami|Kojima Productions|Bluepoint Games|Ideaworks Game Studio| PlatinumGames|Silicon Knights,,,,55000000.0,,,,,,1987-07-13 00:00:00,2020-02-26
+8,Red Dead,,Series,Rockstar Games,Rockstar San Diego|Rockstar Studios,,,,48000000.0,,,,,,2004-05-04 00:00:00,2020-02-26
+9,Harry Potter,,Series,Electronic Arts,Griptonite Games|KnowWonder|Argonaut Games|Westlake Entertainment|Warthog Games Limited|Eurocom|Electronic Arts|Aspyr|Magic Pockets| EA Bright Light|TT Fusion|SCE London Studio|Jam City|Niantic|WB Games San Francisco,,,,42700000.0,,,,,,2001-11-15 00:00:00,2020-03-06
+10,Lego Star Wars,,Series,Eidos Interactive,TT Fusion,,,,33000000.0,,,,,,2005-03-29 00:00:00,2020-03-02
+11,Tom Clancy's Splinter Cell,,Series,Ubisoft,Ubisoft,,,,31000000.0,,,,,,2002-11-17 00:00:00,2020-02-08
+12,James Bond,,Series,Unknown,Richard Shepherd Software|Parker Brothers|Domark|Angelsoft|Melbourne House|Sculptured Software|Elite Systems International|Quixel|The Kremlin|	Delphine Software International|Eurocom|Gray Matter|Tiger Electronics|Rare|Saffire Corporation|Black Ops Enterta,,,,30000000.0,,,,,,N/A,2020-03-08
+13,Terraria,,Series,505 Games,Re-Logic,,,,30000000.0,,,,,,2011-05-16 00:00:00,2020-03-07
+14,Castlevania,,Series,Konami,Konami|Eighting|MercurySteam|Kojima Productions|M2,,,,21630000.0,,,,,,1986-09-26 00:00:00,2020-03-03
+15,Spider-Man,,Series,Unknown,Parker Brothers|Rare|Sega|Bits Studios|Software Creations|Unexpected Development|Neversoft|Torus Games|Vicarious Visions|PCB Productions|Paradox Development|Treyarch|Next Level Games|Shaba Games|Gameloft|Beenox|Insomniac Games,,,,21200000.0,,,,,,N/A,2020-03-12
+16,Gundam,,Series,Unknown,Banpresto|B.B. Studio,,,,20000000.0,,,,,,N/A,2020-03-08
+17,Prince of Persia,,Series,Broderbund,Broderbund|Red Orb Entertainment|Avalanche Software|Ubisoft|Pipeworks Software|Gameloft,,,,20000000.0,,,,,,1989-08-03 00:00:00,2020-02-09
+18,Rayman Raving Rabbids,,Series,Ubisoft,Ubisoft|Headstrong Games,,,,20000000.0,,,,,,2006-11-19 00:00:00,2020-02-10
+19,SpongeBob SquarePants,,Series,THQ,"Vicarious Visions|Engine Software|AWE Games|Climax Development|Data Design Interactive|BigSky Interactive, Inc.|Heavy Iron Studios|WayForward Technologies|THQ|Blue Tongue Entertainment|Tantalus Media|Pronto Games|Blitz Games",,,,20000000.0,,,,,,2001-03-15 00:00:00,2020-03-07
+20,The Last of Us,,Series,Sony Computer Entertainment,Naughty Dog,,,,20000000.0,,,,,,2013-06-14 00:00:00,2020-03-02
+21,Watch Dogs,,Series,Unknown,Ubisoft,,,,20000000.0,,,,,,N/A,2020-03-20
+22,Teenage Mutant Ninja Turtles,,Series,Konami,Konami|Red Fly Studio|Game Arts|Magic Pockets|The Bakers Games|PlatinumGames|Ubisoft|Overloaded|Nickelodeon|WayForward Technologies,,,,19100000.0,,,,,,1989-05-12 00:00:00,2020-03-16
+23,Batman: Arkham,,Series,Warner Bros. Interactive Entertainment,"Rocksteady Studios|WB Games Montreal|Splash Damage|Human Head Studios|NetherRealm Studios|Armature Studio|Turbine, Inc.",,,,18310000.0,,,,,,2009-08-25 00:00:00,2020-03-12
+24,Metroid,,Series,Nintendo,Nintendo|Intelligent Systems|Retro Studios|Team Ninja|Next Level Games|MercurySteam,,,,17440000.0,,,,,,1987-08-15 00:00:00,2020-02-19
+25,The Legend of Zelda: Breath of the Wild,,NS,Nintendo,Nintendo EPD,,9.9,10.0,17410000.0,,,,,,2017-03-03 00:00:00,2018-11-19
+26,Hitman,,Series,Eidos Interactive,IO Interactive,,,,16590000.0,,,,,,2000-11-21 00:00:00,2020-02-28
+27,The Lord of the Rings,,Series,Unknown,"Beam Software|Parker Brothers|Melbourne House|Interplay|Chaos Studios|Papyrus|Surreal Software|The Whole Experience|Pocket Studios|Liquid Entertainment|Midway Austin|Saffire Corporation|Turbine, Inc.|Daybreak Game Company|Fantasy Flight Interactive|Daedal",,,,16170000.000000002,,,,,,N/A,2020-03-09
+28,Luigi's Mansion,,Series,Nintendo,Nintendo|Next Level Games|Grezzo,,,,15820000.0,,,,,,2001-11-18 00:00:00,2020-02-20
+29,Barbie,,Series,Unknown,Imagineering|Media Station|Tahoe Software Productions|Software Creations|	Digital Domain|Mattel Interactive|Human Code|Runecraft|Gorilla Systems Corporation|Krome Studios|Vicarious Visions|Cyber Planet Interactive|Gigawatt Studios|DICE Canada,,,,15000000.0,,,,,,N/A,2020-03-14
+30,Red Dead Redemption 2,,PS4,Rockstar Games,Rockstar Games,8.0,9.8,,,13940000.0,5260000.0,6210000.0,210000.0,2260000.0,2018-10-26 00:00:00,2018-11-02
+31,Marvel's Spider-Man,,PS4,Sony Interactive Entertainment,Insomniac Games,8.0,9.1,,13200000.0,,,,,,2018-09-07 00:00:00,2018-09-26
+32,Dead Rising,,Series,Capcom,Capcom,,,,13000000.0,,,,,,2006-08-08 00:00:00,2020-02-03
+33,Jak and Daxter,,Series,Sony Computer Entertainment,Naughty Dog|Ready at Dawn|High Impact Games|Nihilistic Software|Mass Media Inc.,,,,12000000.0,,,,,,2001-12-03 00:00:00,2020-03-02
+34,Yakuza,,Series,Sega,Sega,,,,12000000.0,,,,,,2006-09-05 00:00:00,2020-03-02
+35,The Last of Us Remastered,,PS4,Sony Computer Entertainment,Naughty Dog,,9.5,,11780000.0,,,,,,2014-07-29 00:00:00,2018-09-24
+36,Rust,,PC,Facepunch Studios,Facepunch Studios,,6.1,,9020000.0,,,,,,2018-02-08 00:00:00,2018-03-19
+37,Silent Hill,,Series,Konami,Konami Computer Entertainment Tokyo|Creature Labs|Climax Studios|Double Helix Games|Vatra Games|WayForward Technologies|Kojima Productions,,,,9000000.0,,,,,,1999-02-23 00:00:00,2020-02-26
+38,Onimusha,,Series,Capcom,Capcom,,,,8300000.000000001,,,,,,2001-03-13 00:00:00,2020-02-04
+39,The Last of Us,,PS3,Sony Computer Entertainment America,Naughty Dog,,9.5,,8150000.0,,,,,,2013-06-14 00:00:00,2018-09-24
+40,Ark,,Series,Studio Wildcard,Studio Wildcard,,,,7260000.0,,,,,,2017-08-27 00:00:00,2020-03-19
+41,Oddworld,,Series,GT Interactive,Oddworld Inhabitants|Digital Dialect|Saffire Corporation|Just Add Water|Frima Studio|Square One Games,,,,7000000.0,,,,,,1997-09-19 00:00:00,2020-02-14
+42,Rugrats,,Series,THQ,Realtime Associates|n-Space|Tiertex Design Studios|Art Co.|Software Creations|Avalanche Software|KnowWonder|THQ|Eurocom Entertainment Software,,,,7000000.0,,,,,,1999-06-29 00:00:00,2020-02-13
+43,Dead Space,,Series,Unknown,EA Redwood Shores|Visceral Games|Eurocom|Sumo Digital|IronMonkey Studios,,,,6670000.0,,,,,,N/A,2020-03-27
+44,Assassin's Creed III,,PS3,Ubisoft,Ubisoft Montreal,,8.8,,,6500000.0,2650000.0,2610000.0,160000.0,1080000.0,2012-10-30 00:00:00,2018-04-12
+45,Luigi's Mansion 3,,NS,Nintendo,"Next Level Games, Inc.",6.0,,,6330000.0,,,,,,2019-10-31 00:00:00,2019-06-11
+46,Red Dead Redemption 2,,XOne,Rockstar Games,Rockstar Games,,,,,5770000.0,3760000.0,1470000.0,,540000.0,2018-10-26 00:00:00,2018-11-02
+47,Assassin's Creed III,,X360,Ubisoft,Ubisoft Montreal,,,,,5310000.0,3130000.0,1710000.0,30000.0,450000.0,2012-10-30 00:00:00,2018-02-07
+48,The Forest,,Series,Endnight Games Ltd,Endnight Games Ltd,,,,5300000.0,,,,,,2018-04-30 00:00:00,2020-03-15
+49,NieR,,Series,Square Enix,Cavia|PlatinumGames,,,,5200000.0,,,,,,2010-04-23 00:00:00,2020-02-11
+50,Dead Island,,Series,Unknown,Techland|Fatshark,,,,5160000.0,,,,,,N/A,2020-03-20
+51,The Matrix,,Series,Infogrames,Shiny Entertainment|Monolith Productions,,,,5000000.0,,,,,,2003-05-14 00:00:00,2020-02-08
+52,Darksiders,,Series,THQ,Vigil Games|KAIKO|Gunfire Games|Airship Syndicate,,,,4950000.0,,,,,,2010-01-05 00:00:00,2020-03-19
+53,Alan Wake,,Series,Microsoft Game Studios,Remedy Entertainment,,,,4500000.0,,,,,,2010-05-18 00:00:00,2020-03-19
+54,ARK: Survival Evolved,,PC,Studio Wildcard,Studio Wildcard,,,,4500000.0,,,,,,2015-06-02 00:00:00,2018-09-22
+55,Dino Crisis,,Series,Capcom,Capcom,,,,4400000.0,,,,,,1999-08-31 00:00:00,2020-02-04
+56,The Legend of Zelda: Link's Awakening,,NS,Nintendo,Nintendo,8.0,,,4380000.0,,,,,,2019-09-20 00:00:00,2019-06-11
+57,Watch Dogs,,PS4,Ubisoft,Ubisoft Montreal,,,,,4320000.0,1400000.0,2130000.0,110000.0,680000.0,2014-05-27 00:00:00,2018-03-15
+58,Risk of Rain,,Series,Chucklefish,Hopoo Games,,,,4000000.0,,,,,,2013-11-08 00:00:00,2020-03-04
+59,Assassin's Creed IV: Black Flag,,PS3,Ubisoft,Ubisoft Montreal,,8.7,,,3940000.0,1340000.0,1860000.0,130000.0,620000.0,2013-10-29 00:00:00,2018-03-14
+60,Drawn to Life,,Series,THQ,5th Cell|WayForward Technologies|Altron,,,,3500000.0,,,,,,2007-09-10 00:00:00,2020-03-01
+61,Legacy of Kain,,Series,Crystal Dynamics,Silicon Knights|Crystal Dynamics,,,,3500000.0,,,,,,1996-11-01 00:00:00,2020-02-28
+62,Jurassic Park,,Series,Ocean Software,Ocean Software|Sega|Universal Interactive|BlueSky Software|DreamWorks Interactive|Appaloosa Interactive|Black Ops Entertainment|Knowledge Adventure|Konami|Gameloft|Telltale Games|Ludia|Microgaming|TT Games|Frontier Developments,,,,3350000.0,,,,,,1993-12-28 00:00:00,2020-03-14
+63,Assassin's Creed IV: Black Flag,,X360,Ubisoft,Ubisoft Montreal,,8.5,,,3340000.0,1900000.0,1140000.0,10000.0,300000.0,2013-10-29 00:00:00,2018-03-22
+64,Assassin's Creed IV: Black Flag,,PS4,Ubisoft,Ubisoft Montreal,,8.3,,,3190000.0,1070000.0,1550000.0,60000.0,510000.0,2013-11-15 00:00:00,2018-03-14
+65,Assassin's Creed Odyssey,,PS4,Ubisoft,Ubisoft Quebec,,9.5,,,3180000.0,1180000.0,1400000.0,90000.0,510000.0,2018-10-05 00:00:00,2018-11-17
+66,The Legend of Zelda: Majora's Mask 3D,,3DS,Nintendo,GREZZO,,9.0,,3090000.0,,,,,,2015-02-13 00:00:00,2018-01-31
+67,Gungeon,,Series,Devolver Digital,Dodge Roll,,,,3000000.0,,,,,,2016-04-05 00:00:00,2020-03-03
+68,Okami,,Series,Capcom,Clover Studio|Capcom,,,,3000000.0,,,,,,2006-09-19 00:00:00,2020-02-04
+69,Mafia III,,PS4,2K Games,Hangar 13,,6.9,,,2870000.0,720000.0,1670000.0,40000.0,440000.0,2016-10-07 00:00:00,2018-04-02
+70,Thief,,Series,Eidos Interactive,Looking Glass Studios|Ion Storm|Eidos Montreal,,,,2810000.0,,,,,,1998-12-01 00:00:00,2020-02-28
+71,Hollow Knight,,Series,Team Cherry,Team Cherry,,,,2800000.0,,,,,,2017-02-24 00:00:00,2020-03-14
+72,Infestation: Survivor Stories,,PC,Unknown,Hammerpoint Interactive,,,,2800000.0,,,,,,N/A,2020-03-17
+73,Far Cry: Primal,,PS4,Ubisoft,Ubisoft Montreal,,7.2,,,2730000.0,630000.0,1610000.0,70000.0,410000.0,2016-02-23 00:00:00,2018-04-03
+74,Kinect: Disneyland Adventures,,X360,Microsoft Studios,Frontier Developments,6.8,8.5,,,2410000.0,1730000.0,430000.0,20000.0,230000.0,2011-11-15 00:00:00,2018-09-29
+75,Batman: Arkham Origins,,PS3,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,,,,,2400000.0,1080000.0,880000.0,40000.0,400000.0,2013-10-25 00:00:00,2018-04-13
+76,Sleeping Dogs,,PC,Square Enix,United Front Games,,8.5,,2360000.0,,,,,,2012-08-14 00:00:00,2018-03-07
+77,The Legend of Zelda: The Wind Waker,,WiiU,Nintendo,Nintendo EAD,,9.3,,2310000.0,,,,,,2013-10-04 00:00:00,2018-03-20
+78,Darksiders: Warmastered Edition,,PC,THQ Nordic,Kaiko,,,,2280000.0,,,,,,2016-11-29 00:00:00,2018-03-31
+79,No Man's Sky,,PS4,Hello Games,Hello Games,,6.8,,,2260000.0,890000.0,970000.0,40000.0,370000.0,2016-08-09 00:00:00,2018-04-04
+80,A Way Out,,Series,Electronic Arts,Hazelight,,,,2000000.0,,,,,,2018-03-23 00:00:00,2020-03-11
+81,Just Cause 3,,PS4,Square Enix,Avalanche Studios,,7.5,,,1980000.0,530000.0,1070000.0,90000.0,300000.0,2015-12-01 00:00:00,2018-04-04
+82,Batman: Arkham Origins,,X360,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,,,,,1900000.0,1150000.0,580000.0,0.0,170000.0,2013-10-25 00:00:00,2018-04-13
+83,Batman: Arkham Origins,,PC,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,,,,1850000.0,,,,,,2014-04-22 00:00:00,2018-04-13
+84,Watch Dogs,,PS3,Ubisoft,Ubisoft Montreal,,,,,1830000.0,560000.0,890000.0,100000.0,280000.0,2014-05-27 00:00:00,2018-03-15
+85,Shadow of the Tomb Raider,,PS4,Square Enix,Eidos Montreal,,,,,1740000.0,590000.0,820000.0,60000.0,270000.0,2018-09-14 00:00:00,2018-09-12
+86,LEGO Batman 2: DC Super Heroes,,X360,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,1690000.0,900000.0,640000.0,,150000.0,2012-06-26 00:00:00,2018-03-15
+87,The Legend of Zelda: Breath of the Wild,,WiiU,Nintendo,Nintendo EPD,,10.0,10.0,1670000.0,,,,,,2017-03-03 00:00:00,2018-11-19
+88,Senran Kagura,,Series,Xseed Games,Tamsoft,,,,1650000.0,,,,,,2013-11-14 00:00:00,2020-02-06
+89,Watch Dogs,,XOne,Ubisoft,Ubisoft Montreal,,,,,1640000.0,910000.0,590000.0,,150000.0,2014-05-27 00:00:00,2018-03-15
+90,Tomb Raider: Definitive Edition,,PS4,Square Enix,Crystal Dynamics,,,,,1510000.0,470000.0,740000.0,60000.0,230000.0,2014-01-28 00:00:00,2018-06-13
+91,ARK: Survival Evolved,,XOne,Studio Wildcard,Studio Wildcard,,,,1500000.0,,,,,,2017-08-29 00:00:00,2018-09-22
+92,Rygar,,Series,Unknown,Tecmo|Team Tachyon,,,,1500000.0,,,,,,N/A,2020-02-08
+93,State of Decay,,PC,Microsoft Studios,Undead Labs,,,,1490000.0,,,,,,2013-11-05 00:00:00,2018-10-02
+94,LEGO Batman 2: DC Super Heroes,,Wii,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,1420000.0,900000.0,400000.0,,120000.0,2012-06-26 00:00:00,2018-03-15
+95,No Man's Sky,,PC,Hello Games,Hello Games,,,,1400000.0,,,,,,2016-01-01 00:00:00,2018-04-04
+96,Assassin's Creed Odyssey,,XOne,Ubisoft,Ubisoft Quebec,,,,,1390000.0,910000.0,350000.0,,130000.0,2018-10-05 00:00:00,2018-11-17
+97,The LEGO Movie Videogame,,X360,Warner Bros. Interactive Entertainment,TT Fusion,,,,,1320000.0,690000.0,510000.0,,110000.0,2014-02-07 00:00:00,2018-03-20
+98,Lego Star Wars: The Force Awakens,,PS4,Warner Bros. Interactive Entertainment,TT Fusion,,,,,1310000.0,300000.0,780000.0,20000.0,200000.0,2016-06-28 00:00:00,2018-03-31
+99,The Last Guardian,,PS4,Sony Interactive Entertainment,SIE Japan Studio,,7.9,,,1290000.0,400000.0,580000.0,130000.0,190000.0,2016-12-06 00:00:00,2018-04-04
+100,Watch Dogs,,X360,Ubisoft,Ubisoft Montreal,,,,,1290000.0,730000.0,440000.0,10000.0,110000.0,2014-05-27 00:00:00,2018-03-15
+101,LEGO Batman 2: DC Super Heroes,,PS3,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,1230000.0,500000.0,540000.0,,190000.0,2012-06-26 00:00:00,2018-03-15
+102,Metal Gear Solid V: Ground Zeroes,,PS4,Konami Digital Entertainment,Kojima Productions,,7.6,,,1200000.0,360000.0,500000.0,170000.0,170000.0,2014-03-18 00:00:00,2018-03-22
+103,Shadow of the Colossus,,PS4,Sony Interactive Entertainment,Bluepoint Games,9.0,9.3,,,1200000.0,440000.0,520000.0,50000.0,190000.0,2018-02-06 00:00:00,2018-11-26
+104,Conan Exiles,,PC,Maximum Games,Funcom Oslo A/S,,,,1140000.0,,,,,,2018-05-08 00:00:00,2018-03-30
+105,The Legend of Zelda: Twilight Princess HD,,WiiU,Nintendo,Tantalus Interactive,,8.4,,1120000.0,,,,,,2016-03-04 00:00:00,2018-03-20
+106,Disney Infinity 2.0: Marvel Super Heroes,,X360,Disney Interactive Studios,Avalanche Software,,,,,1110000.0,670000.0,340000.0,,100000.0,2014-09-23 00:00:00,2018-02-06
+107,Mafia III,,XOne,2K Games,Hangar 13,,6.8,,,1110000.0,540000.0,480000.0,,90000.0,2016-10-07 00:00:00,2018-04-02
+108,Sleeping Dogs,,PS3,Square Enix,United Front Games,,8.1,,,1040000.0,310000.0,500000.0,50000.0,170000.0,2012-08-14 00:00:00,2018-03-07
+109,Disney Infinity 2.0: Marvel Super Heroes,,PS3,Disney Interactive Studios,Avalanche Software,,,,,1040000.0,520000.0,340000.0,,180000.0,2014-09-23 00:00:00,2018-02-06
+110,Just Cause 3,,XOne,Square Enix,Avalanche Studios,,7.0,,,1010000.0,520000.0,410000.0,,90000.0,2015-12-01 00:00:00,2018-04-04
+111,Far Cry: Primal,,XOne,Ubisoft,Ubisoft Montreal,,7.8,,,1000000.0,510000.0,410000.0,,90000.0,2016-02-23 00:00:00,2018-04-03
+112,Don't Starve,,Series,Unknown,Klei Entertainment,,,,1000000.0,,,,,,N/A,2020-03-23
+113,Hellblade,,Series,Ninja Theory,Ninja Theory,,,,1000000.0,,,,,,2017-08-08 00:00:00,2020-03-05
+114,Hollow Knight,,PC,Team Cherry,Team Cherry,,,,1000000.0,,,,,,2017-02-24 00:00:00,2018-02-03
+115,inFAMOUS: Second Son,,PS4,Sony Computer Entertainment,Sucker Punch,,,,1000000.0,,,,,,2014-03-21 00:00:00,2018-11-02
+116,Risk of Rain 2,,PC,Gearbox Publishing,Hopoo Games,,,,1000000.0,,,,,,2019-03-28 00:00:00,2019-05-03
+117,Tom Clancy's Splinter Cell: Blacklist,,X360,Ubisoft,Ubisoft Toronto,,8.4,,,1000000.0,570000.0,330000.0,10000.0,90000.0,2013-08-20 00:00:00,2018-03-08
+118,Tom Clancy's Splinter Cell: Blacklist,,PS3,Ubisoft,Ubisoft Toronto,,8.3,,,980000.0,340000.0,440000.0,60000.0,150000.0,2013-08-20 00:00:00,2018-03-08
+119,The LEGO Movie Videogame,,PS3,Warner Bros. Interactive Entertainment,TT Fusion,,,,,980000.0,330000.0,470000.0,30000.0,160000.0,2014-02-07 00:00:00,2018-03-20
+120,Sea of Thieves,,XOne,Microsoft Studios,Rare Ltd.,,6.9,7.0,,960000.0,600000.0,270000.0,,90000.0,2018-03-20 00:00:00,2018-09-25
+121,Metal Gear Solid V: Ground Zeroes,,PC,Konami Digital Entertainment,Kojima Productions,,8.5,,890000.0,,,,,,2014-12-18 00:00:00,2018-03-22
+122,Assassin's Creed III,,PC,Ubisoft,Ubisoft Montreal,,8.6,,,890000.0,280000.0,540000.0,,70000.0,2012-11-20 00:00:00,2018-04-12
+123,Sleeping Dogs,,X360,Square Enix,United Front Games,,7.9,,,870000.0,380000.0,400000.0,10000.0,80000.0,2012-08-14 00:00:00,2018-03-07
+124,Paper Mario: Color Splash,,WiiU,Nintendo,Intelligent Systems,,7.4,6.4,,870000.0,350000.0,370000.0,80000.0,60000.0,2016-10-07 00:00:00,2018-03-31
+125,Dead Rising 4,,XOne,Microsoft Studios,Capcom,,,,870000.0,,,,,,2016-12-06 00:00:00,2018-09-25
+126,LEGO Batman 2: DC Super Heroes,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,860000.0,420000.0,370000.0,,70000.0,2012-06-26 00:00:00,2019-01-02
+127,Mafia III,,PC,2K Games,Hangar 13,,6.5,,860000.0,,,,,,2016-10-07 00:00:00,2018-04-02
+128,Darksiders II,,PS3,THQ,Vigil Games,,8.3,,,850000.0,350000.0,370000.0,10000.0,130000.0,2012-08-14 00:00:00,2018-03-14
+129,The Amazing Spider-Man (2012),,PS3,Activision,Beenox,,7.3,,,800000.0,310000.0,360000.0,,120000.0,2012-06-26 00:00:00,2018-03-15
+130,Deadlight,,PC,Microsoft Studios,Tequila Works,,,,800000.0,,,,,,2012-10-25 00:00:00,2019-02-07
+131,Darksiders II,,X360,THQ,Vigil Games,,8.6,,,790000.0,450000.0,270000.0,0.0,70000.0,2012-08-14 00:00:00,2018-02-07
+132,Shadow of the Tomb Raider,,XOne,Square Enix,Eidos Montreal,,,,,780000.0,460000.0,250000.0,,70000.0,2018-09-14 00:00:00,2018-09-12
+133,PokéPark 2: Wonders Beyond,,Wii,Nintendo,Creatures Inc.,,6.5,,,760000.0,260000.0,190000.0,270000.0,40000.0,2012-02-27 00:00:00,2018-03-16
+134,Disney Infinity 2.0: Marvel Super Heroes,,PS4,Disney Interactive Studios,Avalanche Software,,8.0,,,750000.0,370000.0,250000.0,,130000.0,2014-09-23 00:00:00,2018-02-06
+135,Skylanders: Trap Team,,WiiU,Activision,Toys for Bob,,,,,750000.0,420000.0,260000.0,,70000.0,2014-10-05 00:00:00,2018-01-29
+136,The Amazing Spider-Man (2012),,X360,Activision,Beenox,,6.8,,,740000.0,430000.0,240000.0,,70000.0,2012-06-26 00:00:00,2018-03-15
+137,The LEGO Movie Videogame,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,720000.0,280000.0,330000.0,50000.0,50000.0,2014-02-07 00:00:00,2018-03-20
+138,Conker: Live And Reloaded,,XB,Microsoft Game Studios,Rare Ltd.,,8.1,,,710000.0,490000.0,200000.0,,20000.0,2005-06-21 00:00:00,2018-09-25
+139,The LEGO Movie Videogame,,PS4,Warner Bros. Interactive Entertainment,TT Fusion,,6.0,,,710000.0,260000.0,320000.0,10000.0,110000.0,2014-02-07 00:00:00,2018-03-20
+140,LEGO Batman 2: DC Super Heroes,,DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,710000.0,390000.0,250000.0,,60000.0,2012-06-26 00:00:00,2019-01-02
+141,Disney Infinity 2.0: Marvel Super Heroes,,WiiU,Disney Interactive Studios,Avalanche Software,,,,,700000.0,410000.0,220000.0,,60000.0,2014-09-23 00:00:00,2018-01-30
+142,State of Decay,,XBL,Microsoft Studios,Undead Labs,,,,700000.0,,,,,,2013-06-05 00:00:00,2018-10-08
+143,Disney Infinity,,WiiU,Disney Interactive Studios,Avalanche Software,,7.6,,,670000.0,370000.0,240000.0,,60000.0,2013-08-18 00:00:00,2018-01-30
+144,The LEGO Movie Videogame,,WiiU,Warner Bros. Interactive Entertainment,TT Fusion,,,,,660000.0,330000.0,240000.0,30000.0,50000.0,2014-02-07 00:00:00,2018-03-20
+145,Tomb Raider: Definitive Edition,,XOne,Square Enix,Crystal Dynamics,,,,,660000.0,380000.0,220000.0,,60000.0,2014-01-28 00:00:00,2018-06-13
+146,The LEGO Movie Videogame,,XOne,Warner Bros. Interactive Entertainment,TT Fusion,,,,,650000.0,420000.0,170000.0,,60000.0,2014-02-07 00:00:00,2018-03-20
+147,Assassin's Creed IV: Black Flag,,PC,Ubisoft,Ubisoft Montreal,,8.5,,,630000.0,240000.0,340000.0,,50000.0,2013-11-19 00:00:00,2018-03-14
+148,LEGO The Hobbit,,PS4,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,620000.0,140000.0,390000.0,,100000.0,2014-04-08 00:00:00,2018-03-15
+149,Gravity Rush,,PSV,Sony Computer Entertainment,SCE Japan Studio,,,,,600000.0,210000.0,200000.0,90000.0,100000.0,2012-06-12 00:00:00,2018-04-20
+150,Metal Gear Solid V: Ground Zeroes,,PS3,Konami Digital Entertainment,Kojima Productions,,8.5,,,590000.0,130000.0,130000.0,280000.0,50000.0,2014-03-18 00:00:00,2018-03-22
+151,Skylanders: SuperChargers,,WiiU,Activision,Vicarious Visions,,8.0,,,590000.0,320000.0,220000.0,,50000.0,2015-09-20 00:00:00,2018-04-06
+152,Starlink: Battle for Atlas,,NS,Ubisoft,Ubisoft Toronto,,7.5,6.0,,570000.0,350000.0,170000.0,,50000.0,2018-10-16 00:00:00,2019-03-22
+153,The Amazing Spider-Man 2 (2014),,PS4,Activision,Beenox,,,,,560000.0,200000.0,260000.0,20000.0,90000.0,2014-04-29 00:00:00,2018-03-19
+154,Metroid: Samus Returns,,3DS,Nintendo,Mercury Steam,,9.1,,,560000.0,300000.0,150000.0,70000.0,50000.0,2017-09-15 00:00:00,2018-09-21
+155,Darksiders II,,PC,THQ,Vigil Games,,7.8,,560000.0,,,,,,2012-08-14 00:00:00,2018-03-14
+156,Just Cause 4,,PS4,Square Enix,Avalanche Studios,,,,,560000.0,180000.0,260000.0,30000.0,90000.0,2018-12-04 00:00:00,2018-12-19
+157,Disney Infinity 2.0: Marvel Super Heroes,,XOne,Disney Interactive Studios,Avalanche Software,,,,,550000.0,350000.0,150000.0,,50000.0,2014-09-23 00:00:00,2018-02-06
+158,Skylanders: SuperChargers,,X360,Activision,Vicarious Visions,,,,,550000.0,350000.0,150000.0,,50000.0,2015-09-20 00:00:00,2018-04-06
+159,Murdered: Soul Suspect,,PC,Square Enix,Airtight Games,,,,510000.0,,,,,,2014-06-03 00:00:00,2018-08-06
+160,Hitman 2,,PS4,Warner Bros. Interactive Entertainment,IO Interactive,,,,,510000.0,190000.0,220000.0,20000.0,80000.0,2018-11-13 00:00:00,2018-11-22
+161,Lego Star Wars: The Force Awakens,,XOne,Warner Bros. Interactive Entertainment,TT Fusion,,,,,500000.0,240000.0,220000.0,,40000.0,2016-06-28 00:00:00,2018-03-31
+162,Watch Dogs,,PC,Ubisoft,Ubisoft Montreal,,,,,490000.0,190000.0,270000.0,,40000.0,2014-05-27 00:00:00,2018-03-15
+163,Batman: Arkham Origins Blackgate,,PSV,Warner Bros. Interactive Entertainment,Armature Studio,,,,,480000.0,160000.0,210000.0,,110000.0,2013-10-25 00:00:00,2018-12-10
+164,LEGO The Hobbit,,PS3,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,470000.0,120000.0,280000.0,,70000.0,2014-04-08 00:00:00,2018-03-15
+165,State of Decay 2,,XOne,Microsoft Studios,Undead Labs,6.0,7.0,,,460000.0,270000.0,140000.0,,40000.0,2018-05-22 00:00:00,2018-09-25
+166,LEGO DC Super-Villains,,PS4,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,460000.0,220000.0,170000.0,,80000.0,2018-10-16 00:00:00,2018-06-04
+167,LEGO The Hobbit,,X360,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,460000.0,200000.0,220000.0,,40000.0,2014-04-08 00:00:00,2018-03-15
+168,Skylanders: SuperChargers,,PS4,Activision,Vicarious Visions,,,,,450000.0,290000.0,90000.0,,80000.0,2015-09-20 00:00:00,2018-04-06
+169,CastleMiner Z,,PC,Unknown,Digital DNA Games,,,,450000.0,,,,,,N/A,2019-02-10
+170,Terraria,,PS3,505 Games,Engine Software,,,,,450000.0,90000.0,210000.0,90000.0,60000.0,2013-07-30 00:00:00,2018-03-19
+171,LEGO DC Super-Villains,,NS,Warner Bros. Interactive Entertainment,Traveller's Tales,,7.8,,,440000.0,280000.0,120000.0,,40000.0,2018-10-16 00:00:00,2018-06-04
+172,Skylanders: SuperChargers,,PS3,Activision,Vicarious Visions,,,,,430000.0,200000.0,160000.0,,70000.0,2015-09-20 00:00:00,2018-04-06
+173,DLC Quest,,PC,Unknown,Going Loud Studios,,,,430000.0,,,,,,N/A,2019-02-10
+174,Hellblade: Senua's Sacrifice,,PC,Ninja Theory,Ninja Theory,,,,420000.0,,,,,,2017-08-08 00:00:00,2019-04-11
+175,Resident Evil HD Remaster,,PC,Unknown,Capcom,,,,420000.0,,,,,,N/A,2019-02-10
+176,LEGO The Lord of the Rings,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,410000.0,210000.0,170000.0,,30000.0,2012-10-30 00:00:00,2018-01-17
+177,LEGO Harry Potter: Years 5-7,,3DS,Warner Bros. Interactive,TT Fusion,,,,,410000.0,180000.0,190000.0,,30000.0,2011-11-11 00:00:00,2018-01-17
+178,Skylanders: SuperChargers,,XOne,Activision,Vicarious Visions,,,,,400000.0,310000.0,50000.0,,40000.0,2015-09-20 00:00:00,2018-04-06
+179,LEGO The Hobbit,,PC,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,400000.0,,,,,,2014-04-08 00:00:00,2018-03-15
+180,Yakuza: Like a Dragon,,PS4,Sega,Sega,,,,400000.0,,,,,,2020-12-01 00:00:00,2019-11-05
+181,Trine 3: The Artifacts of Power,,PC,Frozenbyte,Frozenbyte,,,,390000.0,,,,,,2015-08-20 00:00:00,2018-10-27
+182,One Piece Unlimited World: Red,,3DS,Namco Bandai Games,Ganbarion,,,,,390000.0,50000.0,50000.0,280000.0,10000.0,2014-07-08 00:00:00,2018-10-19
+183,Metal Gear Solid: Snake Eater 3D,,3DS,Konami Digital Entertainment,Konami Computer Entertainment Japan,,7.9,,,390000.0,150000.0,120000.0,100000.0,20000.0,2012-02-21 00:00:00,2018-08-05
+184,Castlevania: Lords of Shadow - Ultimate Edition,,PC,Unknown,Mercury Steam,,,,380000.0,,,,,,N/A,2019-02-10
+185,LEGO Batman 2: DC Super Heroes,,PSV,Warner Bros. Interactive Entertainment,TT Fusion,,,,,370000.0,160000.0,130000.0,,80000.0,2012-06-26 00:00:00,2018-03-15
+186,Resident Evil: Origins Collection,,PS4,Capcom,Capcom,,,,,370000.0,70000.0,180000.0,70000.0,50000.0,2016-01-19 00:00:00,2018-09-04
+187,Streets of Rogue,,PC,Unknown,Matt Dabrowski,,,,370000.0,,,,,,N/A,2019-02-10
+188,No Time To Explain Remastered,,PC,Unknown,TinyBuild Games,,,,360000.0,,,,,,N/A,2019-02-11
+189,Organ Trail,,PC,Unknown,The Men Who Wear Many Hats LLC,,,,360000.0,,,,,,N/A,2019-02-11
+190,Assassin's Creed III,,WiiU,Ubisoft,Ubisoft Montreal,,7.7,,,360000.0,190000.0,140000.0,,30000.0,2012-11-18 00:00:00,2018-03-14
+191,Disney Infinity,,3DS,Disney Interactive Studios,Altron,,,,,350000.0,220000.0,110000.0,,30000.0,2013-08-18 00:00:00,2018-01-21
+192,Gravity Rush 2,,PS4,Sony Interactive Entertainment,SIE Japan Studio,,,,,350000.0,130000.0,50000.0,130000.0,40000.0,2017-01-20 00:00:00,2018-02-09
+193,Lego Star Wars: The Force Awakens,,PS3,Warner Bros. Interactive Entertainment,TT Fusion,,,,,350000.0,70000.0,220000.0,,50000.0,2016-06-28 00:00:00,2018-03-31
+194,Lego Legends of Chima: Laval's Journey,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,340000.0,200000.0,110000.0,,30000.0,2013-06-25 00:00:00,2018-01-22
+195,Damned,,PC,Unknown,9heads Game Studios,,,,340000.0,,,,,,N/A,2019-02-13
+196,The LEGO Movie Videogame,,PC,Warner Bros. Interactive Entertainment,TT Fusion,,,,340000.0,,,,,,2014-02-07 00:00:00,2018-03-20
+197,Dead Realm,,PC,Unknown,"Section Studios, Inc.",,,,330000.0,,,,,,N/A,2019-02-13
+198,Murdered: Soul Suspect,,PS4,Square Enix,Airtight Games,,,,,330000.0,90000.0,170000.0,20000.0,50000.0,2014-06-03 00:00:00,2018-08-06
+199,Invasion: Brain Craving,,PC,Unknown,New Reality Games,,,,320000.0,,,,,,N/A,2019-02-13
+200,The Hat Man: Shadow Ward,,PC,Unknown,Game Mechanics LLC,,,,320000.0,,,,,,N/A,2019-02-13
+201,Batman: Arkham Origins,,WiiU,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,,,,,320000.0,190000.0,100000.0,0.0,30000.0,2013-10-25 00:00:00,2018-04-13
+202,Sonic Boom: Rise of Lyric,,WiiU,Sega,Big Red Button,,3.7,,,310000.0,190000.0,90000.0,,30000.0,2014-11-11 00:00:00,2018-03-22
+203,The LEGO Movie Videogame,,PSV,Warner Bros. Interactive Entertainment,TT Fusion,,,,,310000.0,40000.0,200000.0,,70000.0,2014-02-07 00:00:00,2018-03-20
+204,LEGO Ninjago: Shadow of Ronin,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,310000.0,50000.0,190000.0,50000.0,20000.0,2015-03-24 00:00:00,2018-01-26
+205,Sorcery,,PS3,Sony Computer Entertainment,The Workshop,,,,,300000.0,140000.0,110000.0,,50000.0,2012-05-22 00:00:00,2018-09-14
+206,Agony,,Series,PlayWay,Madmind Studio,,,,300000.0,,,,,,2018-05-29 00:00:00,2020-03-18
+207,Terraria,,X360,505 Games,Engine Software,,7.8,,300000.0,,,,,,2013-03-27 00:00:00,2018-03-19
+208,LEGO DC Super-Villains,,XOne,Warner Bros. Interactive Entertainment,Traveller's Tales,7.0,,,,300000.0,200000.0,70000.0,,30000.0,2018-10-16 00:00:00,2018-06-04
+209,Lego Star Wars: The Force Awakens,,WiiU,Warner Bros. Interactive Entertainment,TT Fusion,,,,,290000.0,120000.0,130000.0,20000.0,20000.0,2016-06-28 00:00:00,2018-03-31
+210,Assassin's Creed IV: Black Flag,,WiiU,Ubisoft,Ubisoft Montreal,,8.5,,,290000.0,170000.0,100000.0,,30000.0,2013-10-29 00:00:00,2018-03-14
+211,BATTLETECH,,PC,Unknown,Harebrained Schemes,,,,290000.0,,,,,,N/A,2019-02-15
+212,Outrage,,PC,Unknown,Astronomic Games,,,,290000.0,,,,,,N/A,2019-02-15
+213,One Piece Unlimited World: Red,,PS3,Namco Bandai Games,Ganbarion,,,,,290000.0,90000.0,100000.0,60000.0,40000.0,2014-07-08 00:00:00,2018-10-19
+214,Just Cause 4,,XOne,Square Enix,Avalanche Studios,,,,,290000.0,170000.0,90000.0,,30000.0,2018-12-04 00:00:00,2018-12-19
+215,How to Train Your Dragon 2,,3DS,Little Orbit,Torus Games,,,,,280000.0,40000.0,220000.0,,20000.0,2014-06-10 00:00:00,2018-02-03
+216,Half Dead,,PC,Unknown,Room710Games,,,,280000.0,,,,,,N/A,2019-02-15
+217,Lego Star Wars: The Force Awakens,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,280000.0,50000.0,190000.0,20000.0,20000.0,2016-06-28 00:00:00,2018-03-31
+218,Siren: Blood Curse,,PS3,Sony Computer Entertainment,SCE Japan Studio,,8.3,,,280000.0,,170000.0,90000.0,10000.0,2008-07-24 00:00:00,2018-09-16
+219,LEGO The Hobbit,,XOne,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,270000.0,130000.0,130000.0,,20000.0,2014-04-08 00:00:00,2018-03-15
+220,Metal Gear Solid V: Ground Zeroes,,XOne,Konami Digital Entertainment,Kojima Productions,,7.7,,,270000.0,130000.0,130000.0,,20000.0,2014-03-18 00:00:00,2018-03-22
+221,Family Guy: Back to the Multiverse,,PS3,Activision,Heavy Iron Studios,,,,,270000.0,120000.0,110000.0,,50000.0,2012-11-20 00:00:00,2018-10-19
+222,Batman: Arkham Origins Blackgate,,3DS,Warner Bros. Interactive Entertainment,Armature Studio,,7.0,,,270000.0,160000.0,90000.0,,20000.0,2013-10-25 00:00:00,2018-12-10
+223,Robinson: The Journey,,PS4,Sony Interactive Entertainment,Crytek,,,,,270000.0,140000.0,90000.0,,50000.0,2016-11-08 00:00:00,2018-09-14
+224,Shenmue I & II,,PS4,Sega,Sega,,,,,270000.0,90000.0,100000.0,50000.0,40000.0,2018-08-21 00:00:00,2018-12-19
+225,The Amazing Spider-Man 2 (2014),,PS3,Activision,Beenox,,,,,270000.0,60000.0,140000.0,20000.0,40000.0,2014-04-29 00:00:00,2018-03-19
+226,Camera Obscura,,PC,Unknown,Anteater Games,,,,260000.0,,,,,,N/A,2019-02-19
+227,Take Thy Throne,,PC,Unknown,Charyb Games,,,,260000.0,,,,,,N/A,2019-02-19
+228,Stealth Inc 2: A Game of Clones,,PC,Unknown,Carbon,,,,260000.0,,,,,,N/A,2019-02-19
+229,Wizard of Legend,,PC,Unknown,Contingent99,,,,260000.0,,,,,,N/A,2019-02-19
+230,Next Day: Survival,,PC,Unknown,SOFF Games,,,,260000.0,,,,,,N/A,2019-02-19
+231,ReCore,,XOne,Microsoft Studios,Armature Studio,,,,,260000.0,160000.0,60000.0,10000.0,20000.0,2016-09-13 00:00:00,2018-10-01
+232,The Amazing Spider-Man 2 (2014),,X360,Activision,Beenox,,,,,250000.0,120000.0,120000.0,,20000.0,2014-04-29 00:00:00,2018-03-19
+233,LEGO The Hobbit,,3DS,Warner Bros. Interactive Entertainment,TT Fusion,,7.0,,,250000.0,100000.0,130000.0,,20000.0,2014-04-08 00:00:00,2018-03-15
+234,Spirit Camera: The Cursed Memoir,,3DS,Nintendo,Tecmo Koei Games,,5.7,,,250000.0,150000.0,20000.0,60000.0,20000.0,2012-04-13 00:00:00,2018-08-30
+235,Star Trek: The Game,,PS3,Namco Bandai Games,Digital Extremes,,,,,250000.0,100000.0,110000.0,,40000.0,2013-04-23 00:00:00,2018-10-29
+236,Black Panther: Yakuza New Chapter,,PSP,Sega,Amusement Vision,,,,250000.0,,,,,,2010-09-22 00:00:00,2018-08-26
+237,Hollow Knight,,NS,Team Cherry,Team Cherry,,,10.0,250000.0,,,,,,2018-06-12 00:00:00,2018-12-01
+238,Kamiko,,NS,Flyhigh Works,Skipmore,,,,250000.0,,,,,,2017-04-27 00:00:00,2018-01-16
+239,Family Guy: Back to the Multiverse,,X360,Activision,Heavy Iron Studios,,,,,250000.0,140000.0,90000.0,,20000.0,2012-11-20 00:00:00,2018-10-19
+240,Lego Star Wars: The Force Awakens,,PC,Warner Bros. Interactive Entertainment,TT Fusion,,,,250000.0,,,,,,2016-06-28 00:00:00,2018-03-31
+241,Far Cry: Primal,,PC,Ubisoft,Ubisoft Montreal,,8.0,,,250000.0,70000.0,160000.0,,20000.0,2016-03-01 00:00:00,2018-04-03
+242,Lego Star Wars: The Force Awakens,,X360,Warner Bros. Interactive Entertainment,TT Fusion,,,,,240000.0,80000.0,140000.0,,20000.0,2016-06-28 00:00:00,2018-03-31
+243,Darksiders II: Deathinitive Edition,,PS4,Nordic Games,Gunfire Games,,7.5,,,240000.0,100000.0,100000.0,,40000.0,2015-10-30 00:00:00,2018-10-02
+244,Skylanders: SuperChargers Racing,,Wii,Activision,Beenox,,,,,230000.0,70000.0,150000.0,,20000.0,2015-09-20 00:00:00,2018-04-06
+245,Shadows 2: Perfidia,,PC,Unknown,MrCiastku,,,,230000.0,,,,,,N/A,2019-02-20
+246,LEGO The Hobbit,,WiiU,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,230000.0,90000.0,110000.0,,20000.0,2014-04-08 00:00:00,2018-03-15
+247,No Man's Sky,,XOne,505 Games,Hello Games,,,,,230000.0,170000.0,40000.0,,20000.0,2018-07-24 00:00:00,2018-04-04
+248,The Amazing Spider-Man 2 (2014),,XOne,Activision,Beenox,,,,,220000.0,120000.0,80000.0,,20000.0,2014-04-29 00:00:00,2018-03-19
+249,Hitman 2,,XOne,Warner Bros. Interactive Entertainment,IO Interactive,,,,,220000.0,140000.0,60000.0,,20000.0,2018-11-13 00:00:00,2018-11-22
+250,The Wild Eight,,PC,Unknown,HypeTrain Digital,,,,220000.0,,,,,,N/A,2019-02-23
+251,Judgment,,PS4,Sega,Sega,7.0,,,,220000.0,,,220000.0,,2019-06-25 00:00:00,2019-04-05
+252,Betrayer,,PC,Unknown,Blackpowder Games,,,,220000.0,,,,,,N/A,2019-02-23
+253,Road Redemption,,PC,Unknown,Pixel Dash Studios,,,,210000.0,,,,,,N/A,2019-02-23
+254,Star Trek: The Game,,X360,Namco Bandai Games,Digital Extremes,,,,,210000.0,120000.0,80000.0,,20000.0,2013-04-23 00:00:00,2018-10-29
+255,Tom Clancy's Splinter Cell: Blacklist,,PC,Ubisoft,Ubisoft Toronto,,8.9,,,210000.0,60000.0,140000.0,,20000.0,2013-08-20 00:00:00,2018-03-08
+256,Conan Exiles,,PS4,Maximum Games,Funcom Oslo A/S,,,,,210000.0,50000.0,50000.0,90000.0,20000.0,2018-05-08 00:00:00,2018-09-26
+257,The Amazing Spider-Man (2012),,3DS,Activision,Beenox,,7.0,,,210000.0,160000.0,30000.0,,20000.0,2012-06-26 00:00:00,2018-03-15
+258,State of Decay: Year One Survival Edition,,XOne,Microsoft Studios,Undead Labs,,,,,210000.0,140000.0,50000.0,,20000.0,2015-04-28 00:00:00,2018-09-25
+259,Castlevania: Lords of Shadow 2,,PS3,Konami Digital Entertainment,Mercury Steam,,,,,200000.0,30000.0,130000.0,20000.0,30000.0,2014-02-25 00:00:00,2018-11-02
+260,Code of Princess,,3DS,Atlus,Studio Saizensen,,7.2,,,200000.0,160000.0,,30000.0,20000.0,2012-10-09 00:00:00,2019-01-05
+261,The Amazing Spider-Man (2012),,DS,Activision,Other Ocean Interactive,,,,,200000.0,150000.0,30000.0,,20000.0,2012-06-26 00:00:00,2018-03-15
+262,Resident Evil Zero,,PC,Capcom,Capcom,,,,200000.0,,,,,,2016-01-19 00:00:00,2018-09-04
+263,Sleeping Dogs: Definitive Edition,,XOne,Square Enix,United Front Games,,7.5,,,200000.0,100000.0,90000.0,,20000.0,2014-10-14 00:00:00,2018-05-01
+264,Skylanders: SuperChargers Racing,,3DS,Activision,Beenox,,,,,200000.0,110000.0,70000.0,,20000.0,2015-09-20 00:00:00,2018-04-06
+265,How to Train Your Dragon 2,,Wii,Little Orbit,Torus Games,,,,,190000.0,40000.0,140000.0,,10000.0,2014-06-10 00:00:00,2018-03-17
+266,Lego Star Wars: The Force Awakens,,PSV,Warner Bros. Interactive Entertainment,TT Fusion,,,,,180000.0,20000.0,100000.0,20000.0,30000.0,2016-06-28 00:00:00,2018-03-31
+267,How to Train Your Dragon 2,,X360,Little Orbit,Torus Games,,,,,180000.0,60000.0,100000.0,,10000.0,2014-06-10 00:00:00,2018-03-17
+268,Castlevania: Lords of Shadow 2,,PC,Konami Digital Entertainment,Mercury Steam,,,,170000.0,,,,,,2014-02-25 00:00:00,2018-11-02
+269,Epistory - Typing Chronicles,,PC,Unknown,Fishing Cactus,,,,170000.0,,,,,,N/A,2019-03-13
+270,Murdered: Soul Suspect,,XOne,Square Enix,Airtight Games,,,,,170000.0,80000.0,70000.0,,10000.0,2014-06-03 00:00:00,2018-08-06
+271,Dead Rising 4: Frank's Big Package,,PS4,Capcom,Capcom,,,,,160000.0,80000.0,50000.0,,30000.0,2017-12-05 00:00:00,2018-09-25
+272,Mad Dagger,,PC,Unknown,YarGri,,,,160000.0,,,,,,N/A,2019-03-18
+273,Just Cause 3,,PC,Square Enix,Avalanche Studios,,7.6,,,160000.0,30000.0,120000.0,,10000.0,2015-12-01 00:00:00,2018-04-04
+274,Witch It,,PC,Unknown,Barrel Roll Games,,,,160000.0,,,,,,N/A,2019-03-19
+275,Adventure Time: Explore the Dungeon Because I Don't Know!,,3DS,D3Publisher,Way Forward,,,,,160000.0,100000.0,40000.0,,10000.0,2013-11-19 00:00:00,2018-03-19
+276,Only One Hope,,PC,Unknown,Unknown,,,,160000.0,,,,,,N/A,2019-03-19
+277,Legends of Chima: Laval's Journey,,PSV,Warner Bros. Interactive Entertainment,TT Fusion,,,,,160000.0,10000.0,110000.0,,40000.0,2013-06-25 00:00:00,2018-12-03
+278,Apartment 666,,PC,Unknown,I Need Play,,,,160000.0,,,,,,N/A,2019-03-19
+279,Naruto Powerful Shippuden,,3DS,Namco Bandai Games,Namco Bandai Games,,8.0,,,160000.0,80000.0,20000.0,40000.0,10000.0,2013-03-05 00:00:00,2018-11-06
+280,Darksiders II,,WiiU,THQ,Vigil Games,,8.2,,,160000.0,70000.0,70000.0,,10000.0,2012-11-18 00:00:00,2018-03-14
+281,Castlevania: Lords of Shadow - Mirror of Fate,,3DS,Konami Digital Entertainment,Mercury Steam,,7.2,,,160000.0,40000.0,80000.0,30000.0,10000.0,2013-03-05 00:00:00,2018-11-06
+282,LEGO The Hobbit,,PSV,Warner Bros. Interactive Entertainment,TT Fusion,,,,,160000.0,20000.0,100000.0,,30000.0,2014-04-08 00:00:00,2018-03-15
+283,The Amazing Spider-Man (2012),,Wii,Activision,Beenox,,,,,160000.0,100000.0,40000.0,,10000.0,2012-06-26 00:00:00,2018-03-15
+284,Metal Gear Solid V: The Phantom Pain,,X360,Konami Digital Entertainment,Kojima Productions,,,,,160000.0,100000.0,50000.0,,10000.0,2015-09-01 00:00:00,2018-09-12
+285,Gravity Rush Remastered,,PS4,Sony Computer Entertainment,Bluepoint Games,,7.9,,,160000.0,20000.0,60000.0,50000.0,20000.0,2016-02-02 00:00:00,2018-09-23
+286,Batman: Arkham Origins Blackgate,,PC,Warner Bros. Interactive Entertainment,Armature Studio,,,,160000.0,,,,,,2014-04-01 00:00:00,2018-12-10
+287,Assassin's Creed Rogue Remastered,,PS4,Ubisoft,Ubisoft,,,,,150000.0,,130000.0,10000.0,20000.0,2018-03-20 00:00:00,2018-01-29
+288,Mitsurugi Kamui Hikae,,PC,Unknown,Zenith Blue,,,,150000.0,,,,,,N/A,2019-03-20
+289,Rabi-Ribi,,PC,Unknown,CreSpirit,,,,150000.0,,,,,,N/A,2019-03-20
+290,28 Waves Later,,PC,Unknown,Dagestan Technology,,,,150000.0,,,,,,N/A,2019-03-21
+291,Mr.President!,,PC,Unknown,Game Developer X,,,,150000.0,,,,,,N/A,2019-03-21
+292,Space Incident,,PC,Unknown,Vogd3,,,,150000.0,,,,,,N/A,2019-03-21
+293,Paranautical Activity,,PC,Unknown,Digerati Distribution,,,,150000.0,,,,,,N/A,2019-03-23
+294,Blades of Time,,PC,Unknown,Gaijin Entertainment,,,,150000.0,,,,,,N/A,2019-03-23
+295,Feed and Grow: Fish,,PC,Unknown,Old B1ood,,,,150000.0,,,,,,N/A,2019-03-23
+296,One Piece Unlimited World: Red,,PSV,Namco Bandai Games,Ganbarion,,,,,150000.0,40000.0,40000.0,40000.0,30000.0,2014-07-08 00:00:00,2018-10-19
+297,Deadly Premonition: The Director's Cut,,PC,Unknown,Rising Star Games,,,,150000.0,,,,,,N/A,2019-03-24
+298,Dead Rising 4,,PC,Capcom,Capcom,,,,150000.0,,,,,,2016-12-06 00:00:00,2018-10-01
+299,Wizorb,,PC,Unknown,Tribute Games,,,,150000.0,,,,,,N/A,2019-03-25
+300,Offspring Fling!,,PC,Unknown,Kyle Pulver,,,,150000.0,,,,,,N/A,2019-03-25
+301,The Final Station,,PC,Unknown,Oleg Sergeev,,,,150000.0,,,,,,N/A,2019-03-27
+302,Galaxy on Fire 2 Full HD,,PC,Unknown,Fishlabs Entertainment,,,,140000.0,,,,,,N/A,2019-03-29
+303,Immune - True Survival,,PC,Unknown,vidiludi games and entertainment,,,,140000.0,,,,,,N/A,2019-03-29
+304,Okami HD,,PS3,Capcom,HexaDrive,,,,,140000.0,,,140000.0,,2012-10-30 00:00:00,2018-04-21
+305,Murdered: Soul Suspect,,PS3,Square Enix,Airtight Games,,,,,140000.0,50000.0,50000.0,20000.0,20000.0,2014-06-03 00:00:00,2018-08-06
+306,We Happy Few,,PS4,Gearbox Software,Compulsion Games,,,,,140000.0,80000.0,40000.0,,20000.0,2018-08-10 00:00:00,2018-09-17
+307,Rodea the Sky Soldier,,WiiU,NIS America,Kadokawa Games,,7.0,,,140000.0,100000.0,20000.0,10000.0,10000.0,2015-11-10 00:00:00,2018-04-06
+308,Metal Gear Solid V: Ground Zeroes,,X360,Konami Digital Entertainment,Kojima Productions,,8.3,,,140000.0,60000.0,50000.0,10000.0,10000.0,2014-03-18 00:00:00,2018-03-22
+309,Cucumber Blues,,PC,Unknown,Unknown,,,,130000.0,,,,,,2017-04-03 00:00:00,2019-04-21
+310,Watch Dogs,,WiiU,Ubisoft,Ubisoft Montreal,,,,,130000.0,70000.0,50000.0,,10000.0,2014-11-18 00:00:00,2018-03-15
+311,Tom Clancy's Splinter Cell: Blacklist,,WiiU,Ubisoft,Ubisoft Shanghai,,9.2,,,130000.0,40000.0,70000.0,,10000.0,2013-08-20 00:00:00,2018-03-08
+312,Westerado: Double Barreled,,PC,Adult Swim,Ostrich Banditos,,,,120000.0,,,,,,2015-04-16 00:00:00,2019-04-20
+313,Oceanhorn: Monster of Uncharted Seas,,PC,FDG Entertainment,Cornfox & Brothers,,,,120000.0,,,,,,2015-03-17 00:00:00,2019-04-20
+314,Overture,,PC,Black Shell Media,Black Shell Games,,,,120000.0,,,,,,2015-01-01 00:00:00,2019-04-17
+315,The Growth Journey,,PC,Cleverweek,Cleverweek,,,,120000.0,,,,,,2016-01-07 00:00:00,2019-04-17
+316,LEGO Batman 2: DC Super Heroes,,WiiU,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,120000.0,40000.0,70000.0,,10000.0,2013-05-21 00:00:00,2018-03-15
+317,Anodyne,,PC,Analgesic Productions,Sean Han Tani,,,,120000.0,,,,,,2013-03-22 00:00:00,2019-04-09
+318,Darksiders: Warmastered Edition,,PS4,THQ Nordic,Kaiko,,,,,110000.0,70000.0,20000.0,,20000.0,2016-11-22 00:00:00,2018-03-31
+319,Insanely Twisted Shadow Planet,,PC,Microsoft Studios,Shadow Planet Productions,,,,110000.0,,,,,,2012-04-17 00:00:00,2019-04-06
+320,Between Me and The Night,,PC,Unknown,RainDance LX,,,,110000.0,,,,,,N/A,2019-04-05
+321,Heroes of Hammerwatch,,PC,Crackshell,Crackshell,,,,110000.0,,,,,,2018-03-01 00:00:00,2019-04-03
+322,Dungeon Souls,,PC,Black Shell Media,Lamina Studios,,,,110000.0,,,,,,2016-12-02 00:00:00,2019-04-01
+323,Fatal Frame 2: Wii Edition,,Wii,Nintendo,Koei Tecmo Games,,,,,110000.0,,0.0,100000.0,0.0,2012-06-28 00:00:00,2018-08-30
+324,How to Train Your Dragon 2,,PS3,Little Orbit,Torus Games,,,,,100000.0,30000.0,60000.0,,20000.0,2014-06-10 00:00:00,2018-03-17
+325,Terraria,,PSV,505 Games,Engine Software,,,,,100000.0,,10000.0,90000.0,0.0,2013-12-04 00:00:00,2018-03-19
+326,Starlink: Battle for Atlas,,PS4,Ubisoft,Ubisoft Toronto,,,,,100000.0,80000.0,,,20000.0,2018-10-16 00:00:00,2019-03-22
+327,Starlink: Battle for Atlas,,XOne,Ubisoft,Ubisoft Toronto,,,,,100000.0,90000.0,,,10000.0,2018-10-16 00:00:00,2019-03-22
+328,Touhou Luna Nights,,PC,Vaka Game Magazine,Vaka Game Magazine,,,,100000.0,,,,,,2019-02-26 00:00:00,2019-06-24
+329,Murdered: Soul Suspect,,X360,Square Enix,Airtight Games,,,,,100000.0,60000.0,30000.0,,10000.0,2014-06-03 00:00:00,2018-08-06
+330,SpongeBob: HeroPants,,X360,Activision,Behaviour Interactive,,,,,100000.0,90000.0,0.0,,10000.0,2015-02-03 00:00:00,2018-04-15
+331,Resident Evil 4,,PS4,Capcom,Capcom,,,,,100000.0,70000.0,,10000.0,20000.0,2016-08-30 00:00:00,2018-09-04
+332,Resident Evil: Origins Collection,,XOne,Capcom,Capcom,,,,,100000.0,70000.0,20000.0,,10000.0,2016-01-19 00:00:00,2018-09-04
+333,We Happy Few,,XOne,Gearbox Software,Compulsion Games,,,,,90000.0,70000.0,10000.0,,10000.0,2018-08-10 00:00:00,2018-09-17
+334,Castlevania: Lords of Shadow 2,,X360,Konami Digital Entertainment,Mercury Steam,,,,,90000.0,20000.0,60000.0,,10000.0,2014-02-25 00:00:00,2018-11-02
+335,Invizimals: The Alliance,,PSV,Sony Computer Entertainment,Novarama,,,,,90000.0,0.0,70000.0,,20000.0,2014-09-30 00:00:00,2018-04-09
+336,The Amazing Spider-Man (2012),,WiiU,Activision,Beenox,,6.0,,,90000.0,50000.0,40000.0,,10000.0,2013-03-05 00:00:00,2018-03-15
+337,How to Train Your Dragon 2,,WiiU,Little Orbit,Torus Games,,,,,80000.0,30000.0,50000.0,,10000.0,2014-06-10 00:00:00,2018-03-17
+338,Darksiders II: Deathinitive Edition,,XOne,Nordic Games,Gunfire Games,,7.5,,,80000.0,50000.0,30000.0,,10000.0,2015-10-30 00:00:00,2018-10-02
+339,Akiba's Trip Plus,,PSP,Acquire,Acquire,,,,,80000.0,,,80000.0,,2012-06-14 00:00:00,2018-12-03
+340,Adventure Time: Explore the Dungeon Because I Don't Know!,,X360,D3Publisher,Way Forward,,,,,80000.0,30000.0,40000.0,,10000.0,2013-11-19 00:00:00,2018-03-19
+341,Disney Infinity 2.0: Marvel Super Heroes,,PSV,Disney Interactive Studios,Avalanche Software,,,,,80000.0,,60000.0,,20000.0,2015-05-09 00:00:00,2018-02-06
+342,ARK: Survival Evolved,,NS,Studio Wildcard,Studio Wildcard,,4.0,,,80000.0,70000.0,,,10000.0,2018-11-30 00:00:00,2018-09-22
+343,Disneyland Adventures,,XOne,Microsoft Studios,Asobo Studio,,,,,70000.0,50000.0,10000.0,,10000.0,2017-10-31 00:00:00,2018-09-25
+344,Shenmue I & II,,XOne,Sega,Sega,,,,,70000.0,50000.0,10000.0,,10000.0,2018-08-21 00:00:00,2018-07-28
+345,City Shrouded in Shadow,,PS4,Namco Bandai Games,Granzella,,,,,70000.0,,,70000.0,,2017-10-19 00:00:00,2018-01-10
+346,One Piece Unlimited World: Red,,WiiU,Namco Bandai Games,Ganbarion,,,,,70000.0,,40000.0,30000.0,0.0,2014-07-31 00:00:00,2018-10-19
+347,Penguins of Madagascar,,3DS,Little Orbit,Little Orbit,,,,,70000.0,,60000.0,,0.0,2014-11-25 00:00:00,2018-04-07
+348,The Amazing Spider-Man 2 (2014),,3DS,Activision,High Voltage Software,,,,,60000.0,30000.0,30000.0,,10000.0,2014-04-29 00:00:00,2018-03-19
+349,Asterix and Obelix XXL2,,NS,Microids,Microids,,6.5,,,60000.0,,60000.0,,0.0,2018-11-29 00:00:00,2019-02-19
+350,Conan Exiles,,XOne,Maximum Games,Funcom Oslo A/S,,,,,60000.0,50000.0,10000.0,,10000.0,2018-05-08 00:00:00,2018-03-18
+351,SpongeBob SquarePants: Plankton's Robotic Revenge,,3DS,Activision,Behaviour Interactive Inc.,,,,,60000.0,,60000.0,,0.0,2013-10-22 00:00:00,2019-01-03
+352,Assassin's Creed Odyssey,,PC,Ubisoft,Ubisoft Quebec,,,,,60000.0,,60000.0,,0.0,2018-10-05 00:00:00,2018-06-13
+353,The Amazing Spider-Man 2 (2014),,WiiU,Activision,Beenox,,,,,60000.0,30000.0,30000.0,,0.0,2014-04-29 00:00:00,2018-03-19
+354,SpongeBob SquarePants: Plankton's Robotic Revenge,,WiiU,Activision,Behaviour Interactive Inc.,,,,,60000.0,,50000.0,,0.0,2013-10-22 00:00:00,2019-01-03
+355,Disaster Report 4 Plus: Summer Memories,,PS4,NIS America,Granzella,,,,,50000.0,,,50000.0,,2020-04-07 00:00:00,2018-12-19
+356,Rodea the Sky Soldier,,3DS,NIS America,Kadokawa Games,,,,,50000.0,40000.0,0.0,,10000.0,2015-11-10 00:00:00,2018-04-06
+357,Yakuza 3,,PS4,Sega,Sega,,,,,50000.0,,,50000.0,,2018-08-09 00:00:00,2018-08-25
+358,Hellblade: Senua's Sacrifice,,PS4,505 Games,Ninja Theory,,8.3,,,50000.0,30000.0,10000.0,,10000.0,2018-12-04 00:00:00,2018-11-02
+359,rain,,PS3,Sony Computer Entertainment,PlayStation C.A.M.P.!,,,,,50000.0,,,50000.0,,2013-10-01 00:00:00,2019-01-19
+360,Resident Evil 4,,XOne,Capcom,Capcom,,,,,50000.0,40000.0,,,10000.0,2016-08-30 00:00:00,2018-09-04
+361,Adventure Time: Explore the Dungeon Because I Don't Know!,,PS3,D3Publisher,Way Forward,,,,,50000.0,20000.0,20000.0,,10000.0,2013-11-19 00:00:00,2018-03-19
+362,Yomawari: The Long Night Collection,,NS,NIS America,Nippon Ichi Software,6.0,,,,50000.0,40000.0,,10000.0,0.0,2018-10-30 00:00:00,2018-11-07
+363,SpongeBob: HeroPants,,3DS,Activision,Behaviour Interactive,,,,,50000.0,40000.0,,,10000.0,2015-02-03 00:00:00,2018-04-15
+364,Doraemon: Shin Nobita no Daimakyou Peko to 5-nin no Tankenta,,3DS,FuRyu Corporation,FuRyu,,,,,40000.0,,,40000.0,,2014-03-06 00:00:00,2019-04-23
+365,Hotel Transylvania 3: Monsters Overboard,,XOne,Outright Games,Torus Games,,,,,40000.0,40000.0,,,0.0,2018-07-10 00:00:00,2019-03-24
+366,Earthfall,,PS4,Gearbox Software,Holospark,,,,,40000.0,30000.0,,,10000.0,2018-07-13 00:00:00,2018-05-25
+367,Darksiders: Warmastered Edition,,XOne,THQ Nordic,Kaiko,,,,,40000.0,40000.0,,,0.0,2016-11-22 00:00:00,2018-03-31
+368,Adventure Time: Explore the Dungeon Because I Don't Know!,,WiiU,D3Publisher,Way Forward,,2.8,,,40000.0,20000.0,20000.0,,0.0,2013-12-12 00:00:00,2018-01-22
+369,Ukiyo no Shishi,,PS3,Namco Bandai Games,Spike Chunsoft,,,,,40000.0,,,40000.0,,2015-01-29 00:00:00,2019-04-26
+370,Assassin's Creed Chronicles: China,,PS4,Ubisoft,Climax Studios,,,,,40000.0,,30000.0,,10000.0,2015-04-21 00:00:00,2018-12-30
+371,Asterix and Obelix XXL2,,PS4,Microids,Microids,,,,,40000.0,,30000.0,,10000.0,2018-11-29 00:00:00,2019-02-19
+372,Hotel Transylvania 3: Monsters Overboard,,PS4,Outright Games,Torus Games,,,,,40000.0,30000.0,,,10000.0,2018-07-10 00:00:00,2019-03-24
+373,Hunter x Hunter: Wonder Adventure,,PSP,Namco Bandai Games,Namco Bandai Games,,,,,40000.0,,,40000.0,,2012-09-20 00:00:00,2019-04-26
+374,Assassin's Creed Rogue Remastered,,XOne,Ubisoft,Ubisoft,6.0,6.0,,,40000.0,,30000.0,,0.0,2018-03-20 00:00:00,2018-01-29
+375,Monster Boy and the Cursed Kingdom,,NS,FDG Entertainment,Game Atelier,8.0,8.0,9.5,,40000.0,30000.0,,,0.0,2018-11-06 00:00:00,2018-12-17
+376,The Persistence,,PS4,Sony Interactive Entertainment,Firesprite,7.0,,,,40000.0,,30000.0,,10000.0,2018-07-24 00:00:00,2018-09-24
+377,Penguins of Madagascar,,WiiU,Little Orbit,Little Orbit,,,,,30000.0,10000.0,20000.0,,0.0,2014-11-25 00:00:00,2018-04-07
+378,Earthfall,,XOne,Gearbox Software,Holospark,,,,,30000.0,30000.0,,,0.0,2018-07-13 00:00:00,2018-05-25
+379,Power Rangers Super Megaforce,,3DS,Namco Bandai Games,7thChord,,,,,30000.0,10000.0,10000.0,,0.0,2014-10-28 00:00:00,2019-01-23
+380,Override: Mech City Brawl,,PS4,Modus Games,The Balance Inc,,,7.0,,30000.0,20000.0,,,10000.0,2018-12-04 00:00:00,2019-03-28
+381,Beast Quest,,PS4,Maximum Games,Torus Games,,,,,30000.0,20000.0,,,10000.0,2018-03-13 00:00:00,2018-01-08
+382,Record of Grancrest War,,PS4,Bandai Namco Games,Bandai Namco,,,,,30000.0,,,30000.0,,2018-06-14 00:00:00,2018-06-24
+383,Legends of Chima: Laval's Journey,,DS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,30000.0,,30000.0,,0.0,2013-08-31 00:00:00,2018-12-03
+384,Star Trek: The Game,,PC,Namco Bandai Games,Digital Extremes,,,,,30000.0,0.0,20000.0,,0.0,2013-04-23 00:00:00,2018-10-29
+385,Ukiyo no Roushi,,PSV,Spike Chunsoft,Spike Chunsoft,,,,,30000.0,,,30000.0,,2015-02-11 00:00:00,2019-04-27
+386,Beast Quest,,XOne,Maximum Games,Torus Games,,,,,30000.0,20000.0,,,0.0,2018-03-13 00:00:00,2018-01-08
+387,Onimusha: Warlords,,PS4,Capcom,Capcom,,,,,30000.0,,,30000.0,,2019-01-15 00:00:00,2018-12-29
+388,Hellblade: Senua's Sacrifice,,XOne,Microsoft Studios,Ninja Theory,,,,,30000.0,20000.0,,,0.0,2018-12-04 00:00:00,2018-11-02
+389,Darksiders: Warmastered Edition,,WiiU,THQ Nordic,Kaiko,,,,,30000.0,10000.0,10000.0,,0.0,2017-05-23 00:00:00,2018-03-31
+390,Agony,,PS4,Maximum Games,Madmind Studio,,5.0,,,30000.0,20000.0,,,0.0,2018-05-29 00:00:00,2018-04-30
+391,The Girl and the Robot,,PS4,Soedesco,Flying Carpets Games,,,,,30000.0,20000.0,,,0.0,2017-09-29 00:00:00,2019-05-01
+392,République,,PS4,GungHo Online Entertainment,Camouflaj,,6.5,,,20000.0,,10000.0,10000.0,0.0,2016-03-22 00:00:00,2018-04-15
+393,Resident Evil: Value Pack,,PS4,Capcom,Capcom,,,,,20000.0,,,20000.0,,2016-09-29 00:00:00,2018-09-04
+394,Agony,,XOne,Maximum Games,Madmind Studio,,,,,20000.0,20000.0,,,0.0,2018-05-29 00:00:00,2018-04-30
+395,Override: Mech City Brawl,,XOne,Modus Games,The Balance Inc,,,,,20000.0,20000.0,,,0.0,2018-12-04 00:00:00,2019-03-28
+396,Border Break,,PS4,Sega,Sega,,,,,20000.0,,,20000.0,,2018-08-02 00:00:00,2018-08-26
+397,Gravity Rush Remastered,,PS4,Sony Computer Entertainment Europe,Bluepoint Games,,,,,20000.0,,20000.0,,0.0,2016-02-02 00:00:00,2018-09-23
+398,Invizimals: The Lost Kingdom,,PS3,Sony Computer Entertainment,Novarama,,,,,20000.0,,20000.0,,0.0,2014-09-30 00:00:00,2018-04-09
+399,Kamiwaza Wanda: Kira Kira Ichibangai Kikiippatsu!,,3DS,FuRyu Corporation,FuRyu,,,,,20000.0,,,20000.0,,2016-10-27 00:00:00,2018-08-06
+400,SpongeBob: HeroPants,,PSV,Activision,Behaviour Interactive,,,,,20000.0,10000.0,0.0,,0.0,2015-02-03 00:00:00,2018-04-15
+401,Adventure Time: The Secret of the Nameless,,3DS,Little Orbit,Way Forward Technologies,,,,,20000.0,10000.0,,,0.0,2014-11-18 00:00:00,2019-01-24
+402,Penguins of Madagascar,,Wii,Little Orbit,Little Orbit,,,,,20000.0,0.0,10000.0,,0.0,2014-11-25 00:00:00,2018-04-07
+403,Max: The Curse of Brotherhood,,NS,Wired Productions,Stage Clear Studios,,,,,10000.0,10000.0,,,0.0,2018-04-24 00:00:00,2019-03-23
+404,Brave: The Video Game,,Wii,Disney Interactive Studios,Behaviour Interactive Inc.,,,,,10000.0,,10000.0,,0.0,2012-06-19 00:00:00,2019-05-08
+405,Phineas and Ferb: Quest for Cool Stuff,,WiiU,Disney Interactive Studios,Disney Interactive Studios,,,,,10000.0,,10000.0,,0.0,2013-08-13 00:00:00,2018-01-24
+406,Brave: The Video Game,,DS,Disney Interactive Studios,Behaviour Interactive Inc.,,,,,10000.0,,10000.0,,0.0,2012-06-19 00:00:00,2019-05-08
+407,Far Cry 3: Classic Edition,,PS4,Ubisoft,Ubisoft Montreal,,,,,10000.0,,,10000.0,,2018-07-05 00:00:00,2018-07-20
+408,Adventure Time: The Secret of the Nameless Kingdom,,X360,Little Orbit,Way Forward,,,,,10000.0,10000.0,,,0.0,2014-11-18 00:00:00,2019-05-10
+409,Hotel Transylvania 3: Monsters Overboard,,NS,Outright Games,Torus Games,,6.5,,,10000.0,10000.0,,,0.0,2018-07-10 00:00:00,2019-03-24
+410,Onimusha: Warlords,,NS,Capcom,Capcom,,,,,10000.0,,,10000.0,,2019-01-15 00:00:00,2018-12-29
+411,The Amazing Spider-Man 2 (2014),,PC,Activision,Beenox,,,,,10000.0,,10000.0,,0.0,2014-04-29 00:00:00,2018-03-19
+412,LEGO Ninjago Nindroids,,3DS,Warner Bros. Interactive Entertainment,Hellbent Games,,,,,10000.0,,10000.0,,0.0,2014-07-29 00:00:00,2019-05-01
+413,LEGO Batman 2: DC Super Heroes,,PC,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,10000.0,,10000.0,,0.0,2012-06-19 00:00:00,2018-03-15
+414,Legend of Kay Anniversary,,NS,THQ Nordic,THQ Nordic,,6.5,,,10000.0,,10000.0,,0.0,2018-05-29 00:00:00,2019-04-06
+415,Regular Show: Mordecai & Rigby in 8-Bit Land,,3DS,D3Publisher,D3 Publisher,,,,,10000.0,,0.0,,0.0,2013-10-29 00:00:00,2019-05-01
+416,LEGO Ninjago Nindroids,,PSV,Warner Bros. Interactive Entertainment,Hellbent Games,,,,,0.0,,0.0,,0.0,2014-07-29 00:00:00,2019-05-01
+417,Harry Potter for Kinect,,X360,Warner Bros. Interactive Entertainment,Eurocom,,,,,0.0,,0.0,,0.0,2009-10-09 00:00:00,2019-05-01
+418,Assassin's Creed Chronicles: China,,PC,Ubisoft,Climax Studios,,,,,0.0,,0.0,,0.0,2015-04-21 00:00:00,2018-12-30
+419,The Amazing Spider-Man (2012),,PSV,Activision,Beenox,,,,,0.0,,0.0,,0.0,2013-11-19 00:00:00,2018-03-15
+420,The Amazing Spider-Man (2012),,PC,Activision,Beenox,,,,,0.0,0.0,,,0.0,2012-08-10 00:00:00,2018-03-15
+421,Resident Evil Zero,,PS3,Capcom,Capcom,,,,,0.0,,0.0,,0.0,2016-01-19 00:00:00,2018-09-04
+422,Rise of the Guardians: The Video Game,,DS,D3Publisher,Torus Games Pty. Ltd.,,,,,0.0,,0.0,,,2012-11-20 00:00:00,2019-04-25
+423,Adventure Time: Explore the Dungeon Because I Don't Know!,,PC,D3Publisher,Way Forward,,,,,,,,,,2014-01-01 00:00:00,2018-03-19
+424,Alan Wake's American Nightmare,,XBL,Microsoft Studios,Remedy Entertainment,,,,,,,,,,2012-02-22 00:00:00,2018-09-29
+425,Alan Wake: The Signal,,XBL,Microsoft Game Studios,Remedy Entertainment,,7.6,,,,,,,,2010-07-27 00:00:00,2018-10-01
+426,Alan Wake: The Writer,,XBL,Microsoft Game Studios,Remedy Entertainment,,7.0,,,,,,,,2010-10-12 00:00:00,2018-10-01
+427,Anodyne,,And,Analgesic Productions,Analgesic Productions,,,,,,,,,,2013-10-15 00:00:00,2019-04-09
+428,Anodyne,,OSX,Analgesic Productions,Analgesic Productions,,,,,,,,,,2013-02-04 00:00:00,2019-04-09
+429,Anodyne,,iOS,Analgesic Productions,Analgesic Productions,,,,,,,,,,2013-06-16 00:00:00,2019-04-09
+430,Anodyne,,Linux,Analgesic Productions,Analgesic Productions,,,,,,,,,,2013-02-04 00:00:00,2019-04-09
+431,Assassin's Creed Chronicles: China,,XOne,Ubisoft,Climax Studios,,,,,,,,,,2015-04-21 00:00:00,2018-12-30
+432,Assassin's Creed Liberation HD,,X360,Ubisoft,Ubisoft Sofia,,,,,,,,,,2014-01-15 00:00:00,2018-09-12
+433,Assassin's Creed Liberation HD,,PS3,Ubisoft,Ubisoft Sofia,,,,,,,,,,2014-01-14 00:00:00,2018-09-12
+434,Assassin's Creed Liberation HD,,PC,Ubisoft,Ubisoft Sofia,,,,,,,,,,2014-01-15 00:00:00,2018-09-12
+435,Attack of the Friday Monsters! A Tokyo Tale,,3DS,Level 5,Millenium Kitchen,,7.8,,,,,,,,2013-07-18 00:00:00,2018-04-11
+436,Batman: Arkham Origins Blackgate,,X360,Warner Bros. Interactive Entertainment,Armature Studio,,,,,,,,,,2014-04-01 00:00:00,2018-12-10
+437,Batman: Arkham Origins Blackgate,,WiiU,Warner Bros. Interactive Entertainment,Armature Studio,,,,,,,,,,2014-04-01 00:00:00,2018-12-10
+438,Batman: Arkham Origins Blackgate,,PS3,Warner Bros. Interactive Entertainment,Armature Studio,,,,,,,,,,2014-04-01 00:00:00,2018-12-10
+439,Below,,PC,Capybara Games,Capybara Games,,,,,,,,,,2018-12-14 00:00:00,2018-08-09
+440,Below,,XOne,Capybara Games,Capybara Games,,,,,,,,,,2018-12-14 00:00:00,2018-08-09
+441,Blues and Bullets,,PC,A Crowd of Monsters,A Crowd of Monsters,,,,,,,,,,2015-07-23 00:00:00,2018-09-07
+442,Castlevania: Lords of Shadow - Mirror of Fate,,PS3,Konami Digital Entertainment,Mercury Steam,,,,,,,,,,2013-10-31 00:00:00,2019-01-13
+443,Castlevania: Lords of Shadow - Mirror of Fate,,X360,Konami Digital Entertainment,Mercury Steam,,,,,,,,,,2013-10-31 00:00:00,2019-01-13
+444,Chibi-Robo!: Photo Finder,,3DS,Nintendo,skip Ltd.,,,,,,,,,,2014-01-09 00:00:00,2018-08-30
+445,Cyberpunk 2077,,PC,CD Projekt Red Studio,CD Projekt Red Studio,,,,,,,,,,2020-11-19 00:00:00,2019-06-10
+446,Cyberpunk 2077,,PS4,CD Projekt Red Studio,CD Projekt Red Studio,,,,,,,,,,2020-11-19 00:00:00,2019-06-10
+447,Days Gone,,PS4,Sony Interactive Entertainment,SIE Bend Studio,,6.7,,,,,,,,2019-04-26 00:00:00,2019-03-20
+448,Disney Infinity 2.0: Marvel Super Heroes,,PC,Disney Interactive Studios,Avalanche Software,,,,,,,,,,2014-09-23 00:00:00,2018-02-06
+449,Family Guy: Back to the Multiverse,,PC,Activision,Heavy Iron Studios,,,,,,,,,,2012-11-20 00:00:00,2018-10-19
+450,Haunt,,XBL,Microsoft Studios,NanaOn-Sha,,,,,,,,,,2012-01-18 00:00:00,2018-09-29
+451,LEGO The Hobbit,,OSX,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,,,,,,2014-04-10 00:00:00,2018-12-30
+452,Magatama,,XB,Microsoft Game Studios,Team Breakout,,,,,,,,,,2003-11-20 00:00:00,2018-09-25
+453,Magatama,,XBL,Microsoft Game Studios,Team Breakout,,,,,,,,,,2007-12-04 00:00:00,2018-09-25
+454,Max: The Curse of Brotherhood,,XOne,Microsoft Studios,Press Play,,,,,,,,,,2013-12-20 00:00:00,2019-03-23
+455,Max: the Curse of Brotherhood,,XBL,Microsoft Studios,Press Play,,,,,,,,,,2014-05-21 00:00:00,2019-03-23
+456,Max: the Curse of Brotherhood,,PC,Microsoft Studios,Press Play,,,,,,,,,,2014-05-21 00:00:00,2019-03-23
+457,Metal Gear Solid 3: Snake Eater HD Edition,,PSV,Konami Digital Entertainment,Armature Studio,,,,,,,,,,2012-08-21 00:00:00,2018-09-12
+458,Metal Gear Solid Mobile,,Mob,Konami Digital Entertainment,Ideaworks3D,,,,,,,,,,2008-03-19 00:00:00,2018-09-12
+459,Metal Gear Solid V: The Phantom Pain,,PS3,Konami Digital Entertainment,Kojima Productions,,,,,,,,,,2015-09-01 00:00:00,2018-09-12
+460,Metroid Prime 4,,NS,Nintendo,Nintendo,,,,,,,,,,2020-12-31 00:00:00,2019-01-25
+461,Oceanhorn: Monster of Uncharted Seas,,XOne,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2016-09-07 00:00:00,2019-04-20
+462,Oceanhorn: Monster of Uncharted Seas,,iOS,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2013-11-14 00:00:00,2019-04-20
+463,Oceanhorn: Monster of Uncharted Seas,,PS4,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2016-09-07 00:00:00,2019-04-20
+464,ReCore,,PC,Microsoft Studios,Armature Studio,,,,,,,,,,2016-09-13 00:00:00,2018-10-01
+465,Republique,,OSX,GungHo Online Entertainment,Camouflaj,,,,,,,,,,2015-02-26 00:00:00,2018-08-11
+466,Republique,,PC,GungHo Online Entertainment,Camouflaj,,,,,,,,,,2015-02-26 00:00:00,2018-08-11
+467,Resident Evil Zero,,X360,Capcom,Capcom,,,,,,,,,,2016-01-19 00:00:00,2018-09-04
+468,Rodea the Sky Soldier,,Wii,NIS America,PROPE,,,,,,,,,,2015-11-10 00:00:00,2018-04-06
+469,Rust,,OSX,Facepunch Studios,Facepunch Studios,,,,,,,,,,2018-02-08 00:00:00,2018-03-19
+470,Sea of Thieves,,PC,Microsoft Studios,Rare Ltd.,5.0,6.7,,,,,,,,2018-03-20 00:00:00,2018-10-01
+471,Shadow of the Beast (2016),,PS4,Sony Interactive Entertainment,Heavy Spectrum,,,,,,,,,,2016-05-17 00:00:00,2018-09-14
+472,Siren: Blood Curse Episodes 1-12,,PSN,Sony Computer Entertainment,SCE Japan Studio,,,,,,,,,,2008-07-24 00:00:00,2018-09-16
+473,Siren: Blood Curse Episodes 1-4,,PSN,Sony Computer Entertainment,SCE Japan Studio,,,,,,,,,,2008-07-23 00:00:00,2018-09-17
+474,Siren: Blood Curse Episodes 5-8,,PSN,Sony Computer Entertainment,SCE Japan Studio,,8.0,,,,,,,,2008-07-23 00:00:00,2018-09-17
+475,Siren: Blood Curse Episodes 9-12,,PSN,Sony Computer Entertainment,SCE Japan Studio,,8.0,,,,,,,,2008-07-23 00:00:00,2018-09-17
+476,SpongeBob SquarePants: Plankton's Robotic Revenge,,DS,Activision,Engine Software,,,,,,,,,,2013-10-22 00:00:00,2019-01-03
+477,SpongeBob SquarePants: Plankton's Robotic Revenge,,PS3,Activision,Behaviour Interactive Inc.,,,,,,,,,,2013-10-22 00:00:00,2019-01-03
+478,SpongeBob SquarePants: Plankton's Robotic Revenge,,Wii,Activision,Behaviour Interactive Inc.,,,,,,,,,,2013-10-22 00:00:00,2019-01-03
+479,Terraria,,And,505 Games,CodeGlue,,,,,,,,,,2013-09-13 00:00:00,2018-03-19
+480,The Amazing Spider-Man (2012),,And,Activision,Gameloft,,,,,,,,,,2012-06-28 00:00:00,2018-03-15
+481,Viking: Battle for Asgard,,PC,Sega,Creative Assembly,,,,,,,,,,2012-10-17 00:00:00,2018-05-25
+482,World to the West,,WiiU,Rain Games,Rain Games,,,,,,,,,,2018-12-31 00:00:00,2018-09-07
+483,World to the West,,PC,Rain Games,Rain Games,,,,,,,,,,2017-05-05 00:00:00,2018-09-07
+484,World to the West,,PS4,Soedesco,Rain Games,,,,,,,,,,2017-08-08 00:00:00,2018-09-07
+485,World to the West,,XOne,Rain Games,Rain Games,,,,,,,,,,2017-05-05 00:00:00,2018-09-07
+486,Zelda: The Wand of Gamelon,,CDi,Philips Interactive Media,Animation Magic,,,,,,,,,,1993-10-10 00:00:00,2018-04-17
+487,Stray,,PS5,Annapurna Interactive,Blue Twelve Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+488,レミロア~少女と異世界と魔導書,,NS,Unknown,Pikii,,,,,,,,,,N/A,2019-02-23
+489,198X,,PS4,Hi-Bit Studios,Hi-Bit Studios,,,,,,,,,,2019-06-20 00:00:00,2019-06-05
+490,198X,,XOne,Hi-Bit Studios,Hi-Bit Studios,,,,,,,,,,2019-12-01 00:00:00,2019-06-05
+491,198X,,NS,Hi-Bit Studios,Hi-Bit Studios,,,,,,,,,,2019-12-01 00:00:00,2019-06-05
+492,198X,,PC,Hi-Bit Studios,Hi-Bit Studios,,,,,,,,,,2019-06-20 00:00:00,2019-06-05
+493,A Plague Tale: Innocence,,PC,Focus Home Interactive,Asobo Studio,,,,,,,,,,2019-05-14 00:00:00,2019-04-01
+494,A Plague Tale: Innocence,,XOne,Focus Home Interactive,Asobo Studio,,,,,,,,,,2019-05-14 00:00:00,2019-04-01
+495,A Plague Tale: Innocence,,PS4,Focus Home Interactive,Asobo Studio,,,,,,,,,,2019-05-14 00:00:00,2019-04-01
+496,A Rats Quest: The Way Back Home,,PS4,HandyGames,The Dreamerians,,,,,,,,,,2020-12-01 00:00:00,2019-08-05
+497,A Rats Quest: The Way Back Home,,PC,HandyGames,The Dreamerians,,,,,,,,,,2020-12-01 00:00:00,2019-08-05
+498,A Rats Quest: The Way Back Home,,XOne,HandyGames,The Dreamerians,,,,,,,,,,2020-12-01 00:00:00,2019-08-05
+499,A Rats Quest: The Way Back Home,,NS,HandyGames,The Dreamerians,,,,,,,,,,2020-12-01 00:00:00,2019-08-05
+500,Aggelos,,PC,PQube,PQube,,,,,,,,,,2019-06-19 00:00:00,2019-07-31
+501,Aggelos,,NS,PQube,PQube,,,8.0,,,,,,,2019-09-24 00:00:00,2019-04-28
+502,Alien: Isolation,,NS,Sega,Creative Assembly,,,,,,,,,,2019-12-05 00:00:00,2019-11-23
+503,Among the Sleep,,NS,Krillbite Studio,Krillbite Studio,,,,,,,,,,2019-05-29 00:00:00,2019-05-19
+504,Anodyne,,XOne,Analgesic Productions,Analgesic Productions,,,,,,,,,,2018-09-21 00:00:00,2019-04-09
+505,Anodyne,,NS,Analgesic Productions,Analgesic Productions,,,,,,,,,,2019-02-28 00:00:00,2019-04-09
+506,Anodyne,,PS4,Analgesic Productions,Analgesic Productions,,,,,,,,,,2018-09-18 00:00:00,2019-04-09
+507,Anodyne 2: Return to Dust,,PC,Analgesic Productions,Sean Han Tani,,,,,,,,,,2019-08-31 00:00:00,2019-04-09
+508,Ary and the Secret of Seasons,,PC,Modus Games,eXiin,,,,,,,,,,2020-09-28 00:00:00,2019-08-10
+509,Ary and the Secret of Seasons,,XOne,Modus Games,eXiin,,,,,,,,,,2020-09-28 00:00:00,2019-08-10
+510,Ary and the Secret of Seasons,,NS,Modus Games,eXiin,,,,,,,,,,2020-09-28 00:00:00,2019-08-10
+511,Ary and the Secret of Seasons,,PS4,Modus Games,eXiin,,,,,,,,,,2020-09-28 00:00:00,2019-08-10
+512,Ashen (2018),,XOne,Annapurna Interactive,Aurora44,,,,,,,,,,2018-12-07 00:00:00,2018-12-19
+513,Ashen (2018),,PC,Annapurna Interactive,Aurora44,,,,,,,,,,2018-12-07 00:00:00,2018-12-19
+514,Assassin's Creed III Remastered,,XOne,Ubisoft,Ubisoft,,,,,,,,,,2019-03-29 00:00:00,2019-02-14
+515,Assassin's Creed III Remastered,,NS,Ubisoft,Ubisoft,,,,,,,,,,2019-05-21 00:00:00,2019-03-22
+516,Assassin's Creed III Remastered,,PS4,Ubisoft,Ubisoft,,8.0,,,,,,,,2019-03-29 00:00:00,2019-03-22
+517,Assassin's Creed III Remastered,,PC,Ubisoft,Ubisoft,,,,,,,,,,2019-03-29 00:00:00,2019-02-14
+518,Assassin's Creed Odyssey: Cloud Version,,NS,Ubisoft,Ubisoft Quebec,,,,,,,,,,2018-10-05 00:00:00,2018-11-06
+519,Assassin's Creed Valhalla,,XOne,Ubisoft,Ubisoft,,,,,,,,,,2020-12-01 00:00:00,2020-04-30
+520,Assassin's Creed Valhalla,,PS4,Ubisoft,Ubisoft,,,,,,,,,,2020-12-01 00:00:00,2020-04-30
+521,Assassin's Creed Valhalla,,XSX,Ubisoft,Ubisoft,,,,,,,,,,2020-12-01 00:00:00,2020-04-30
+522,Assassin's Creed Valhalla,,PC,Ubisoft,Ubisoft,,,,,,,,,,2020-12-01 00:00:00,2020-04-30
+523,Assassin's Creed Valhalla,,PS5,Ubisoft,Ubisoft,,,,,,,,,,2020-12-01 00:00:00,2020-04-30
+524,Asterix & Obelix XXL 3: The Crystal Menhir,,PC,Microids,OSome Studio,,,,,,,,,,2019-11-21 00:00:00,2019-08-15
+525,Asterix & Obelix XXL 3: The Crystal Menhir,,XOne,Microids,OSome Studio,,,,,,,,,,2019-11-21 00:00:00,2019-08-15
+526,Asterix & Obelix XXL 3: The Crystal Menhir,,NS,Microids,OSome Studio,,,,,,,,,,2019-11-21 00:00:00,2019-08-15
+527,Asterix & Obelix XXL 3: The Crystal Menhir,,PS4,Microids,OSome Studio,,,,,,,,,,2019-11-21 00:00:00,2019-08-15
+528,Asterix and Obelix XXL2,,XOne,Microids,Microids,,,,,,,,,,2018-11-29 00:00:00,2019-02-19
+529,Asterix and Obelix XXL2,,PC,Microids,Microids,,,,,,,,,,2018-11-29 00:00:00,2019-02-19
+530,Astro's Playroom,,PS5,Sony Interactive Entertainment,ASOBI Team,,,,,,,,,,2020-12-01 00:00:00,2020-06-13
+531,Attack on Titan 2: Final Battle,,XOne,Koei Tecmo,Omega Force,,,,,,,,,,2019-07-05 00:00:00,2019-06-13
+532,Attack on Titan 2: Final Battle,,NS,Koei Tecmo,Omega Force,,,,,,,,,,2019-07-05 00:00:00,2019-06-13
+533,Attack on Titan 2: Final Battle,,PC,Koei Tecmo,Omega Force,,,,,,,,,,2019-07-05 00:00:00,2019-06-13
+534,Attack on Titan 2: Final Battle,,PS4,Koei Tecmo,Omega Force,,,,,,,,,,2019-07-05 00:00:00,2019-06-13
+535,AWAY: Journey to the Unexpected,,NS,PLAYDIUS,Aurelien Regard Games,,,,,,,,,,2018-12-30 00:00:00,2018-02-01
+536,Axiom Verge 2,,NS,Thomas Happ Games,Thomas Happ Games,,,,,,,,,,2020-12-01 00:00:00,2019-12-10
+537,Babylon's Fall,,PS4,Square Enix,PlatinumGames,,,,,,,,,,2020-11-01 00:00:00,2019-04-09
+538,Babylon's Fall,,PC,Square Enix,PlatinumGames,,,,,,,,,,2020-12-01 00:00:00,2019-04-09
+539,Bakugan: Champions of Vestroia,,NS,Warner Bros. Interactive Entertainment,WayForward,,,,,,,,,,2020-11-03 00:00:00,2020-07-10
+540,Baldo,,NS,Unknown,Naps Team,,,,,,,,,,N/A,2020-06-23
+541,Battle Princess Madelyn,,NS,Casual Bit Games,Casual Bit Games Inc.,,,,,,,,,,2018-12-19 00:00:00,2018-11-17
+542,Beast Quest,,PC,Unknown,Torus Games,,,,,,,,,,N/A,2018-01-08
+543,Black The Fall,,NS,Sand Sailor Studio,Sand Sailor Studio,,,,,,,,,,2017-12-14 00:00:00,2018-01-18
+544,Blair Witch,,PS4,Lionsgate Games,Bloober Team,,,,,,,,,,2019-12-03 00:00:00,2019-11-22
+545,Blaster Master Zero,,PC,Inti Creates,Inti Creates,,,,,,,,,,2019-06-14 00:00:00,2019-05-25
+546,Blazing Beaks,,PC,Applava,Applava,,,,,,,,,,2019-05-10 00:00:00,2019-08-08
+547,Blazing Beaks,,PS4,Applava,Applava,,,,,,,,,,2019-12-01 00:00:00,2019-08-08
+548,Blazing Beaks,,NS,Applava,Applava,,,,,,,,,,2019-05-10 00:00:00,2019-08-08
+549,Bloodstained: Ritual of the Night,,PS4,"505 Games US, Inc.",Way Forward Technologies,,,,,,,,,,2019-06-18 00:00:00,2019-04-08
+550,Bloodstained: Ritual of the Night,,NS,"505 Games US, Inc.",Way Forward Technologies,,,,,,,,,,2019-06-25 00:00:00,2019-04-08
+551,Bloodstained: Ritual of the Night,,XOne,"505 Games US, Inc.",Way Forward Technologies,,,,,,,,,,2019-06-18 00:00:00,2019-04-08
+552,Bloodstained: Ritual of the Night,,PC,"505 Games US, Inc.",Way Forward Technologies,,,,,,,,,,2019-06-18 00:00:00,2019-04-08
+553,Bookbound Brigade,,PC,Intragames,Digital Tales,,,,,,,,,,2019-12-01 00:00:00,2019-07-31
+554,Bookbound Brigade,,NS,Intragames,Digital Tales,,,,,,,,,,2019-12-01 00:00:00,2019-07-31
+555,Bookbound Brigade,,PS4,Intragames,Digital Tales,,,,,,,,,,2019-12-01 00:00:00,2019-07-31
+556,Boyfriend Dungeon,,NS,Kitfox Games,Kitfox Games,,,,,,,,,,2020-12-01 00:00:00,2019-12-16
+557,Boyfriend Dungeon,,PC,Kitfox Games,Kitfox Games,,,,,,,,,,2020-12-01 00:00:00,2019-12-16
+558,Cannibal Cuisine,,PC,Rocket Vulture,Rocket Vulture,,,,,,,,,,2020-05-20 00:00:00,2020-05-09
+559,Cannibal Cuisine,,NS,Rocket Vulture,Rocket Vulture,,,,,,,,,,2020-05-20 00:00:00,2020-05-09
+560,Carrion,,PS4,Devolver Digital,Phobia Game Studio,,,,,,,,,,2020-12-01 00:00:00,2020-05-23
+561,Carrion,,PC,Devolver Digital,Phobia Game Studio,,,,,,,,,,2020-12-01 00:00:00,2020-05-23
+562,Carrion,,XOne,Devolver Digital,Phobia Game Studio,,,,,,,,,,2020-12-01 00:00:00,2020-05-23
+563,Castle Crashers Remastered,,PS4,Unknown,The Behemoth,,,,,,,,,,N/A,2019-03-19
+564,Castle Crashers Remastered,,NS,Unknown,The Behemoth,,,,,,,,,,N/A,2019-03-19
+565,Castlevania Anniversary Collection,,PC,Konami Digital Entertainment,Konami,,,,,,,,,,2019-05-15 00:00:00,2019-05-14
+566,Castlevania Anniversary Collection,,NS,Konami,Konami,7.0,,,,,,,,,2019-05-16 00:00:00,2019-05-14
+567,Castlevania Anniversary Collection,,XOne,Konami,Konami,,,,,,,,,,2019-05-16 00:00:00,2019-05-14
+568,Castlevania Anniversary Collection,,PS4,Konami,Konami,,,,,,,,,,2019-05-16 00:00:00,2019-05-14
+569,Castlevania: Symphony of the Night,,And,Unknown,Konami,,,,,,,,,,N/A,2020-06-04
+570,Castlevania: Symphony of the Night,,iOS,Unknown,Konami,,,,,,,,,,N/A,2020-06-04
+571,Child of Light,,NS,Unknown,Ubisoft,,,,,,,,,,N/A,2019-06-25
+572,Cirsed Castilla EX,,PS4,Unknown,Abylight,,,,,,,,,,N/A,2019-01-24
+573,Commander Keen,,And,Unknown,ZeniMax Online Studios,,,,,,,,,,N/A,2019-06-09
+574,Commander Keen,,iOS,Unknown,ZeniMax Online Studios,,,,,,,,,,N/A,2019-06-09
+575,Conan Chop Chop,,PS4,Unknown,Funcom Oslo A/S,,,,,,,,,,N/A,2019-06-10
+576,Conan Chop Chop,,NS,Unknown,Funcom Oslo A/S,,,,,,,,,,N/A,2019-06-10
+577,Conan Chop Chop,,XOne,Unknown,Funcom Oslo A/S,,,,,,,,,,N/A,2019-06-10
+578,Conan Chop Chop,,PC,Unknown,Funcom Oslo A/S,,,,,,,,,,N/A,2019-06-10
+579,Concrete Genie,,PS4,Sony Interactive Entertainment,PixelOpus,5.0,,,,,,,,,2019-10-08 00:00:00,2020-04-10
+580,Contra Anniversary Collection,,PC,Konami,Konami,,,,,,,,,,2019-06-11 00:00:00,2019-06-13
+581,Contra Anniversary Collection,,NS,Konami,Konami,7.0,,,,,,,,,2019-06-11 00:00:00,2019-06-13
+582,Contra Anniversary Collection,,XOne,Konami,Konami,,,,,,,,,,2019-06-11 00:00:00,2019-06-13
+583,Contra Anniversary Collection,,PS4,Konami,Konami,,,,,,,,,,2019-06-11 00:00:00,2019-06-13
+584,Control,,XSX,505 Games,Remedy,,,,,,,,,,2021-12-01 00:00:00,2020-06-13
+585,Control,,PS5,505 Games,Remedy,,,,,,,,,,2021-12-01 00:00:00,2020-06-13
+586,Creature in the Well,,XOne,Unknown,Flight School Studio,,,,,,,,,,N/A,2019-09-04
+587,Creature in the Well,,PC,Unknown,Flight School Studio,,,,,,,,,,N/A,2019-09-04
+588,Creature in the Well,,NS,Unknown,Flight School Studio,7.0,,,,,,,,,N/A,2019-09-04
+589,Crossing Souls,,PS4,Devolver Digital,Fourattic,,,,,,,,,,2018-02-13 00:00:00,2018-03-20
+590,Cyberpunk 2077,,XSX,CD Projekt Red Studio,CD Projekt Red Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-18
+591,Cyberpunk 2077,,XOne,CD Projekt Red Studio,CD Projekt Red Studio,,,,,,,,,,2020-11-19 00:00:00,2019-06-10
+592,Cyberpunk 2077,,PS5,CD Projekt Red Studio,CD Projekt Red Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-18
+593,Dark Devotion,,PS4,Unknown,Hibernian Workshop,5.0,,,,,,,,,N/A,2019-11-18
+594,Dark Devotion,,XOne,Unknown,Hibernian Workshop,,,,,,,,,,N/A,2019-11-18
+595,Dark Devotion,,PC,Unknown,Hibernian Workshop,,,,,,,,,,N/A,2019-11-18
+596,Dark Devotion,,NS,Unknown,Hibernian Workshop,,,,,,,,,,N/A,2019-11-18
+597,Darksiders Genesis,,NS,THQ Nordic,Airship Syndicate,,,,,,,,,,2020-02-14 00:00:00,2019-06-08
+598,Darksiders Genesis,,PC,THQ Nordic,Airship Syndicate,9.0,,,,,,,,,2020-12-05 00:00:00,2019-06-08
+599,Darksiders Genesis,,PS4,THQ Nordic,Airship Syndicate,,,,,,,,,,2020-02-14 00:00:00,2019-06-08
+600,Darksiders Genesis,,XOne,THQ Nordic,Airship Syndicate,,,,,,,,,,2020-02-14 00:00:00,2019-06-08
+601,Darksiders II: Deathinitive Edition,,NS,THQ Nordic,Gunfire Games,,,,,,,,,,2019-09-26 00:00:00,2019-08-09
+602,Darksiders: Warmastered Edition,,NS,THQ Nordic,Kaiko,,,,,,,,,,2019-04-02 00:00:00,2019-04-20
+603,Darkwood,,XOne,Unknown,Acid Wizard Studio,,,,,,,,,,N/A,2019-05-19
+604,Darkwood,,NS,Crunching Koalas,Acid Wizard Studio,,,,,,,,,,2019-05-16 00:00:00,2019-05-19
+605,Darkwood,,PS4,Crunching Koalas,Acid Wizard Studio,,,,,,,,,,2019-05-14 00:00:00,2019-05-19
+606,Dawn of Fear,,PS4,Good Game Publishing,Brok3nsite,,,,,,,,,,2020-02-03 00:00:00,2020-01-22
+607,Daymare: 1998,,PC,Destructive Creations,Invader Studios,,,,,,,,,,2019-09-17 00:00:00,2019-08-16
+608,Daymare: 1998,,XOne,Destructive Creations,Invader Studios,4.0,,,,,,,,,2019-12-01 00:00:00,2019-08-16
+609,Daymare: 1998,,PS4,Destructive Creations,Invader Studios,,,,,,,,,,2019-12-01 00:00:00,2019-08-16
+610,Deadlight,,X360,Microsoft Studios,Tequila Works,,,,,,,,,,2012-06-01 00:00:00,2019-03-24
+611,Deadlight: Director's Cut,,XOne,Deep Silver,Tequila Works|Abstraction Games,,,,,,,,,,2016-06-21 00:00:00,2019-03-24
+612,Deadlight: Director's Cut,,PC,Deep Silver,Tequila Works|Abstraction Games,,,,,,,,,,2016-06-21 00:00:00,2019-03-24
+613,Deadlight: Director's Cut,,PS4,Deep Silver,Tequila Works|Abstraction Games,,,,,,,,,,2016-06-21 00:00:00,2019-03-24
+614,Deadly Premonition 2: A Blessing in Disguise,,NS,Rising Star Games,Toybox Games,,,,,,,,,,2020-07-10 00:00:00,2020-05-16
+615,Deadly Premonition Origins,,NS,Toybox,Toybox Games,,,,,,,,,,2020-09-05 00:00:00,2020-05-11
+616,Death Stranding,,PC,505 Games,Kojima Productions,,,,,,,,,,2020-07-14 00:00:00,2019-12-17
+617,Deathtrap Dungeon,,PC,Unknown,Asylum Entertainment,,,,,,,,,,N/A,2018-06-28
+618,Demons Souls,,PS5,Unknown,Bluepoint Games,,,,,,,,,,N/A,2020-06-11
+619,Destroy All Humans!,,PS4,THQ Nordic,Pandemic Studios,,,,,,,,,,2020-07-28 00:00:00,2019-06-18
+620,Destroy All Humans!,,PC,THQ Nordic,Black Forest Games,,,,,,,,,,2020-07-28 00:00:00,2019-06-18
+621,Destroy All Humans!,,XOne,THQ Nordic,Black Forest Games,,,,,,,,,,2020-07-28 00:00:00,2019-06-18
+622,Devils Hunt,,NS,1C Company,Layopi Games,,,,,,,,,,2020-12-01 00:00:00,2019-08-07
+623,Devils Hunt,,PS4,1C Company,Layopi Games,,,,,,,,,,2020-12-01 00:00:00,2019-08-07
+624,Devils Hunt,,PC,1C Company,Layopi Games,,,,,,,,,,2019-09-17 00:00:00,2019-08-07
+625,Devils Hunt,,XOne,1C Company,Layopi Games,,,,,,,,,,2020-12-01 00:00:00,2019-08-07
+626,Disaster Report 4 Plus: Summer Memories,,PC,NIS America,Granzella,,,,,,,,,,2020-04-07 00:00:00,2019-10-17
+627,Disaster Report 4 Plus: Summer Memories,,NS,NIS America,Granzella,,,,,,,,,,2020-04-07 00:00:00,2019-10-17
+628,Disneyland Adventures,,PC,THQ Nordic,Frontier Developments,,,,,,,,,,2018-09-14 00:00:00,2018-11-19
+629,Double Cross,,NS,Graffiti,13AM Games,6.0,,,,,,,,,2019-01-10 00:00:00,2019-01-02
+630,Double Cross,,PC,Graffiti,13AM Games,,,,,,,,,,2019-01-10 00:00:00,2019-01-02
+631,Down to Hell,,NS,Unknown,Red Dev Studio,2.0,,,,,,,,,N/A,2020-02-04
+632,Down to Hell,,PC,Unknown,Red Dev Studio,,,,,,,,,,N/A,2020-02-04
+633,Downward Spiral: Horus Station,,PS4,3rd Eye Studios,3rd Eye Studios,5.0,,,,,,,,,2018-09-18 00:00:00,2018-09-18
+634,Downward Spiral: Horus Station,,PC,3rd Eye Studios,3rd Eye Studios,,,,,,,,,,2018-05-31 00:00:00,2018-09-18
+635,Dragons: Dawn of New Riders,,XOne,Unknown,Outright Games,,,,,,,,,,N/A,2018-11-11
+636,Dragons: Dawn of New Riders,,PC,Unknown,Outright Games,,,,,,,,,,N/A,2018-11-11
+637,Dragons: Dawn of New Riders,,PS4,Unknown,Outright Games,,,,,,,,,,N/A,2018-11-11
+638,Dragons: Dawn of New Riders,,NS,Unknown,Outright Games,,,,,,,,,,N/A,2018-11-11
+639,Dying Light 2,,XOne,Techland,Techland,,,,,,,,,,2020-12-01 00:00:00,2019-06-19
+640,Dying Light 2,,PS5,Techland,Techland,,,,,,,,,,2021-12-01 00:00:00,2020-06-18
+641,Dying Light 2,,PC,Techland,Techland,,,,,,,,,,2020-12-01 00:00:00,2019-06-19
+642,Dying Light 2,,PS4,Techland,Techland,,,,,,,,,,2020-12-01 00:00:00,2019-06-19
+643,Dying Light 2,,XSX,Techland,Techland,,,,,,,,,,2021-12-01 00:00:00,2020-06-18
+644,Earthfall,,PC,Gearbox Software,Holospark,,,,,,,,,,2018-07-13 00:00:00,2018-05-25
+645,Eastward,,NS,Chucklefish,Pixpil,,,,,,,,,,2020-12-30 00:00:00,2019-09-13
+646,Elden Ring,,PC,Bandai Namco Entertainment,From Software,,,,,,,,,,2020-12-01 00:00:00,2019-06-27
+647,Elden Ring,,XOne,Bandai Namco Entertainment,From Software,,,,,,,,,,2020-12-01 00:00:00,2019-06-27
+648,Elden Ring,,PS4,Bandai Namco Entertainment,From Software,,,,,,,,,,2020-12-01 00:00:00,2019-06-27
+649,Even the Ocean,,PC,Analgesic Productions,Analgesic Productions,,,,,,,,,,2016-11-16 00:00:00,2018-01-25
+650,Evoland Legendary Edition,,XOne,Unknown,Shiro Games,,,,,,,,,,N/A,2019-01-24
+651,Evoland Legendary Edition,,NS,Unknown,Shiro Games,,,,,,,,,,N/A,2019-01-24
+652,Evoland Legendary Edition,,PS4,Unknown,Shiro Games,,,,,,,,,,N/A,2019-01-24
+653,Exit the Gungeon,,PC,Devolver Digital,Dodge Roll,5.0,,,,,,,,,2020-03-17 00:00:00,2020-03-03
+654,Exit the Gungeon,,iOS,Unknown,Dodge Roll,,,,,,,,,,N/A,2020-03-03
+655,F.I.S.T.,,PS4,Sony Computer Entertainment,TiGames,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+656,Falcon Age,,PS4,Outerloop Games,Outerloop Games,6.0,,,,,,,,,2019-04-09 00:00:00,2019-04-12
+657,Feudal Alloy,,PC,Attu Games,Attu Games,,,,,,,,,,2019-01-17 00:00:00,2019-05-14
+658,Feudal Alloy,,PS4,Attu Games,Attu Games,,,,,,,,,,2019-05-14 00:00:00,2019-05-14
+659,Feudal Alloy,,XOne,Attu Games,Attu Games,,,,,,,,,,2019-05-15 00:00:00,2019-05-14
+660,Figment,,PC,Bedtime Digital Games,Bedtime Digital Games,,,,,,,,,,2017-09-22 00:00:00,2019-04-20
+661,Figment,,NS,Bedtime Digital Games,Bedtime Digital Games,,,,,,,,,,2018-06-28 00:00:00,2019-04-20
+662,Forgotton Anne,,PS4,Square Enix,ThroughLine Games,,,,,,,,,,2018-05-15 00:00:00,2018-05-19
+663,Fossil Hunters,,PC,Unknown,Reptoid Games,,,,,,,,,,N/A,2020-02-01
+664,Gato Roboto,,NS,Devolver Digital,Doinksoft,7.0,,,,,,,,,2019-05-30 00:00:00,2019-06-01
+665,Gato Roboto,,PC,Devolver Digital,Doinksoft,,,,,,,,,,2019-05-30 00:00:00,2019-06-01
+666,Genshin Impact,,iOS,miHoYo,miHoYo,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+667,Genshin Impact,,PS4,miHoYo,miHoYo,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+668,Genshin Impact,,NS,miHoYo,miHoYo,,,,,,,,,,2020-12-01 00:00:00,2020-01-14
+669,Genshin Impact,,PC,miHoYo,miHoYo,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+670,Ghost of Tsushima,,PS4,Sony Interactive Entertainment,Sucker Punch,,,,,,,,,,2020-07-17 00:00:00,2020-07-10
+671,Ghostbusters: The Video Game Remastered,,NS,Saber Interactive,Mad Dog Games,,,,,,,,,,2019-10-04 00:00:00,2019-08-08
+672,Ghostbusters: The Video Game Remastered,,XOne,Saber Interactive,Mad Dog Games,,,,,,,,,,2019-10-04 00:00:00,2019-08-08
+673,Ghostbusters: The Video Game Remastered,,PS4,Saber Interactive,Mad Dog Games,,,,,,,,,,2019-10-04 00:00:00,2019-08-08
+674,Ghostbusters: The Video Game Remastered,,PC,Saber Interactive,Mad Dog Games,,,,,,,,,,2019-10-04 00:00:00,2019-08-08
+675,Ghostwire Tokyo,,PS5,Bethesda Softworks,Tango Gameworks,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+676,Ghostwire Tokyo,,PC,Bethesda Softworks,Tango Gameworks,,,,,,,,,,2021-12-01 00:00:00,2019-06-09
+677,Gods & Monsters,,XSX,Ubisoft,Ubisoft,,,,,,,,,,2021-12-01 00:00:00,2020-06-13
+678,Gods & Monsters,,PS5,Ubisoft,Ubisoft,,,,,,,,,,2021-12-01 00:00:00,2020-06-13
+679,Grand Theft Auto V,,XSX,Rockstar Games,Rockstar Games,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+680,Grand Theft Auto V,,PS5,Rockstar Games,Rockstar Games,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+681,Grayland,,iOS,Unknown,1Der Entertainment,,,,,,,,,,N/A,2020-01-23
+682,Grayland,,PC,1DER Entertainment,1Der Entertainment,,,,,,,,,,2020-01-15 00:00:00,2020-01-22
+683,Grayland,,And,Unknown,1Der Entertainment,,,,,,,,,,N/A,2020-01-23
+684,Grounded,,PC,Xbox Game Studios,Obsidian Entertainment,,,,,,,,,,2020-07-28 00:00:00,2019-11-23
+685,Grounded,,XOne,Xbox Game Studios,Obsidian Entertainment,,,,,,,,,,2020-07-28 00:00:00,2019-11-14
+686,Guacamelee! 2,,PC,Unknown,DrinkBox Studios,,,,,,,,,,N/A,2018-08-16
+687,Guacamelee! 2,,PS4,Unknown,DrinkBox Studios,8.0,,,,,,,,,N/A,2018-08-16
+688,Hades,,PC,Supergiant Games,Supergiant Games,,,,,,,,,,2020-12-01 00:00:00,2018-12-06
+689,Hellblade: Senua's Sacrifice,,NS,Ninja Theory,Ninja Theory,,,,,,,,,,2019-04-11 00:00:00,2019-04-11
+690,Hitman 2,,PC,Warner Bros. Interactive Entertainment,IO Interactive,,,,,,,,,,2018-11-13 00:00:00,2018-11-22
+691,Hitman 3,,XSX,IO Interactive,IO Interactive,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+692,Hitman 3,,PC,IO Interactive,IO Interactive,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+693,Hitman 3,,XOne,IO Interactive,IO Interactive,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+694,Hitman 3,,PS4,IO Interactive,IO Interactive,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+695,Hollow Knight: Silksong,,NS,Team Cherry,Team Cherry,,,,,,,,,,2020-12-01 00:00:00,2019-06-11
+696,Hollow Knight: Silksong,,PC,Team Cherry,Team Cherry,,,,,,,,,,2020-12-01 00:00:00,2019-06-11
+697,Horizon: Forbidden West,,PS5,Sony Interactive Entertainment,Guerrilla Games,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+698,Horizon: Zero Dawn,,PC,PlayStation Mobile Inc.,Guerrilla Games,,,,,,,,,,2020-08-07 00:00:00,2020-06-05
+699,Iconoclasts,,PS4,Bifrost Entertainment,Joakim Sandberg,,,,,,,,,,2018-01-23 00:00:00,2018-01-23
+700,Iconoclasts,,PC,Bifrost Entertainment,Joakim Sandberg,,9.5,,,,,,,,2018-01-23 00:00:00,2018-01-23
+701,Iconoclasts,,PSV,Bifrost Entertainment,Joakim Sandberg,7.0,,,,,,,,,2018-01-23 00:00:00,2018-01-23
+702,In Nightmare,,PS4,Sony Computer Entertainment,Magicfish Studio,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+703,Infinite: Beyond The Mind,,XOne,Blowfish Studios,Emilie COYO,,,,,,,,,,2020-05-07 00:00:00,2020-05-06
+704,Infinite: Beyond The Mind,,NS,Blowfish Studios,Emilie COYO,7.0,,,,,,,,,2020-05-07 00:00:00,2020-05-06
+705,Infinite: Beyond The Mind,,PS4,Blowfish Studios,Emilie COYO,,,,,,,,,,2020-05-07 00:00:00,2020-05-06
+706,Infinite: Beyond The Mind,,PC,Blowfish Studios,Emilie COYO,,,,,,,,,,2020-05-07 00:00:00,2020-05-06
+707,Invizimals: Battle of the Hunters,,iOS,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2016-01-22 00:00:00,2018-04-09
+708,Invizimals: Battle of the Hunters,,And,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2016-01-22 00:00:00,2018-04-09
+709,Invizimals Hidden Challenges,,iOS,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2013-07-31 00:00:00,2018-04-09
+710,Invizimals Hidden Challenges,,And,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2013-07-31 00:00:00,2018-04-09
+711,Invizimals: Revolution,,And,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2015-10-30 00:00:00,2018-04-09
+712,Invizimals: Revolution,,iOS,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2015-10-30 00:00:00,2018-04-09
+713,Invizimals: TV Tracker,,And,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2013-12-06 00:00:00,2018-04-09
+714,Invizimals: TV Tracker,,iOS,Sony Computer Entertainment,Sony Computer Entertainment,,,,,,,,,,2013-12-06 00:00:00,2018-04-09
+715,Ittle Dew 2,,PC,Nicalis,Ludosity Interactive,,,,,,,,,,2016-11-15 00:00:00,2019-02-16
+716,Ittle Dew 2,,PS4,Nicalis,Ludosity Interactive,,,,,,,,,,2016-11-15 00:00:00,2019-02-16
+717,Ittle Dew 2,,XOne,Nicalis,Ludosity Interactive,,,,,,,,,,2016-11-15 00:00:00,2019-02-16
+718,Just Cause 4,,PC,Square Enix,Avalanche Studios,,,,,,,,,,2018-12-04 00:00:00,2018-12-19
+719,Kena: Bridge of Spirits,,PS5,Ember Lab,Ember Lab,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+720,Kena: Bridge of Spirits,,PC,Ember Lab,Ember Lab,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+721,Kings of Lorn: The Fall of Ebris,,PC,TeamKill Media,TeamKill Media,,,,,,,,,,2019-09-09 00:00:00,2019-07-06
+722,Kings of Lorn: The Fall of Ebris,,XOne,TeamKill Media,TeamKill Media,,,,,,,,,,2019-09-09 00:00:00,2019-07-06
+723,Kings of Lorn: The Fall of Ebris,,PS4,TeamKill Media,TeamKill Media,,,,,,,,,,2019-09-09 00:00:00,2019-07-06
+724,Knights and Bikes,,PC,Double Fine Presents,Foam Sword,,,,,,,,,,2019-08-27 00:00:00,2019-08-14
+725,Knights and Bikes,,PS4,Double Fine Presents,Foam Sword,,,,,,,,,,2019-08-27 00:00:00,2019-08-14
+726,Knights and Bikes,,NS,Double Fine Presents,Foam Sword,,,,,,,,,,2020-02-06 00:00:00,2020-01-24
+727,Kunai,,NS,The Arcade Crew,TurtleBlaze,7.0,,,,,,,,,2020-02-06 00:00:00,2020-01-14
+728,Kunai,,PC,The Arcade Crew,TurtleBlaze,,,,,,,,,,2020-02-06 00:00:00,2020-01-14
+729,LEGO Batman 2: DC Super Heroes,,OSX,Feral Interactive,Traveller's Tales,,,,,,,,,,2012-09-06 00:00:00,2019-01-02
+730,LEGO Batman 2: DC Super Heroes,,iOS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2012-06-19 00:00:00,2019-01-02
+731,LEGO Batman 2: DC Super Heroes,,And,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2012-06-19 00:00:00,2019-01-02
+732,LEGO DC Super-Villains,,PC,Unknown,Traveller's Tales,,,,,,,,,,N/A,2018-06-04
+733,Lego Jurassic World,,NS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2019-09-17 00:00:00,2019-09-08
+734,LEGO Star Wars: The Skywalker Saga,,XOne,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2020-10-20 00:00:00,2019-06-10
+735,LEGO Star Wars: The Skywalker Saga,,NS,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2020-10-20 00:00:00,2019-06-10
+736,LEGO Star Wars: The Skywalker Saga,,PC,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2020-10-20 00:00:00,2019-06-10
+737,LEGO Star Wars: The Skywalker Saga,,PS4,Warner Bros. Interactive Entertainment,TT Fusion,,,,,,,,,,2020-10-20 00:00:00,2019-06-10
+738,Light Fall,,PC,Unknown,Bishop Games,8.0,,,,,,,,,N/A,2018-04-28
+739,Link: The Faces of Evil,,CDi,Philips Interactive Media,Animation Magic,,,,,,,,,,1993-10-10 00:00:00,2018-04-17
+740,Little Devil Inside,,PS5,Unknown,Neostream Interactive,,,,,,,,,,N/A,2020-06-14
+741,Little Devil Inside,,PC,Unknown,Neostream Interactive,,,,,,,,,,N/A,2020-06-14
+742,Little Town Hero,,NS,Nintendo,Game Freak,,,,,,,,,,2019-10-16 00:00:00,2019-09-09
+743,Mafia: Trilogy,,PS4,2K Games,Hangar 13,,,,,,,,,,2020-08-28 00:00:00,2020-05-13
+744,Mafia: Trilogy,,PC,2K Games,Hangar 13,,,,,,,,,,2020-08-28 00:00:00,2020-05-13
+745,Mafia: Trilogy,,XOne,2K Games,Hangar 13,,,,,,,,,,2020-08-28 00:00:00,2020-05-13
+746,Mages of Mystralia,,NS,Borealys Games,Borealys Games,5.0,,7.0,,,,,,,2019-01-29 00:00:00,2018-12-16
+747,Maneater,,NS,Tripwire Interactive,Tripwire Interactive,,,,,,,,,,2020-12-22 00:00:00,2019-12-16
+748,Maneater,,XOne,Tripwire Interactive,Tripwire Interactive,,,,,,,,,,2020-05-22 00:00:00,2019-12-16
+749,Maneater,,PC,Tripwire Interactive,Tripwire Interactive,,,,,,,,,,2020-05-22 00:00:00,2019-06-10
+750,Maneater,,PS4,Tripwire Interactive,Tripwire Interactive,,,,,,,,,,2020-05-22 00:00:00,2019-12-16
+751,Marvel: Ultimate Alliance 2,,PC,Unknown,Zoe Mode,,,,,,,,,,N/A,2019-03-29
+752,Marvels Spider-Man: Miles Morales,,PS5,Sony Interactive Entertainment,Insomniac Games,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+753,MediEvil (2019),,PS4,Sony Interactive Entertainment,Other Ocean Interactive,,,,,,,,,,2019-10-25 00:00:00,2019-06-02
+754,Metal Gear Solid 2: Sons of Liberty HD Edition,,PSV,Konami Digital Entertainment,Armature Studio,,,,,,,,,,2012-08-21 00:00:00,2018-09-12
+755,MicroMan,,XSX,Glob Games Studio,Glob Games Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-14
+756,MicroMan,,PC,Glob Games Studio,Glob Games Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-14
+757,MicroMan,,PS5,Glob Games Studio,Glob Games Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-14
+758,MicroMan,,NS,Glob Games Studio,Glob Games Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-14
+759,Minecraft: Dungeons,,PC,Microsoft Studios,Mojang,,,,,,,,,,2020-05-26 00:00:00,2019-06-09
+760,Minecraft: Dungeons,,PS4,Microsoft Game Studios,Mojang AB,,,,,,,,,,2020-05-26 00:00:00,2019-06-19
+761,Minecraft: Dungeons,,XOne,Microsoft Game Studios,Mojang,7.0,,,,,,,,,2020-05-26 00:00:00,2019-06-09
+762,Minecraft: Dungeons,,NS,Microsoft Game Studios,Mojang AB,,,,,,,,,,2020-05-26 00:00:00,2019-06-19
+763,Momodora Reverie Under the Moonlight,,NS,Unknown,Bombservice,,,,,,,,,,N/A,2019-06-25
+764,Monkey King: Hero is Back,,PS4,THQ Nordic,HexaDrive,,,,,,,,,,2019-10-17 00:00:00,2019-10-18
+765,Monster Sanctuary,,PC,Team 17,Moi Rai Games,,,,,,,,,,2019-08-28 00:00:00,2019-08-13
+766,Monstrum,,XOne,Soedesco,Team Junkfish,,,,,,,,,,2019-02-26 00:00:00,2018-08-17
+767,Monstrum,,NS,Soedesco,Team Junkfish,,,,,,,,,,2020-05-22 00:00:00,2019-08-13
+768,Monstrum,,PC,Team Junkfish,Team Junkfish,,,,,,,,,,2015-05-20 00:00:00,2018-08-17
+769,Monstrum,,PS4,Soedesco,Team Junkfish,,,,,,,,,,2019-02-26 00:00:00,2018-08-17
+770,Mulaka,,XOne,Unknown,Lienzo,,,,,,,,,,N/A,2018-02-13
+771,Mulaka,,NS,Lienzo,Lienzo,,,7.6,,,,,,,2018-03-01 00:00:00,2018-02-18
+772,Mulaka,,PS4,Unknown,Lienzo,6.0,,,,,,,,,N/A,2018-02-13
+773,Mulaka,,PC,Unknown,Lienzo,,,,,,,,,,N/A,2018-02-13
+774,Neon City Riders,,PC,Bromio,Mecha Studios,,,,,,,,,,2020-12-01 00:00:00,2019-12-07
+775,Neon City Riders,,XOne,Bromio,Mecha Studios,,,,,,,,,,2020-12-01 00:00:00,2019-12-07
+776,Neon City Riders,,NS,Bromio,Mecha Studios,,,,,,,,,,2020-12-01 00:00:00,2019-12-07
+777,Neon City Riders,,PS4,Bromio,Mecha Studios,,,,,,,,,,2020-12-01 00:00:00,2019-12-07
+778,NightCry,,PSV,Unknown,Nude Maker,4.0,,,,,,,,,N/A,2019-02-13
+779,Oceanhorn: Monster of Uncharted Seas,,PSV,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2017-05-17 00:00:00,2019-04-20
+780,Oceanhorn: Monster of Uncharted Seas,,OSX,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2016-05-19 00:00:00,2019-04-20
+781,Oceanhorn: Monster of Uncharted Seas,,And,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2016-12-15 00:00:00,2019-04-20
+782,Oceanhorn: Monster of Uncharted Seas,,NS,FDG Entertainment,Cornfox & Brothers,,,,,,,,,,2017-06-22 00:00:00,2019-04-20
+783,Odallus: The Dark Call,,PS4,Unknown,JoyMasher,,,7.5,,,,,,,N/A,2019-03-08
+784,Odallus: The Dark Call,,NS,Digerati,JoyMasher,6.0,,,,,,,,,2019-02-08 00:00:00,2019-02-06
+785,Odallus: The Dark Call,,XOne,Unknown,JoyMasher,,,,,,,,,,N/A,2019-03-08
+786,Odallus: The Dark Call,,PC,Unknown,JoyMasher,,,,,,,,,,N/A,2019-02-06
+787,One Piece: Unlimited World Red Deluxe Edition,,PC,Unknown,Namco Bandai Games,,,,,,,,,,N/A,2019-02-15
+788,Onimusha: Warlords,,PC,Capcom,Capcom,,,,,,,,,,2019-01-15 00:00:00,2018-12-29
+789,Onimusha: Warlords,,XOne,Capcom,Capcom,,,,,,,,,,2019-01-15 00:00:00,2018-12-29
+790,Oninaki,,PS4,Square Enix,Tokyo RPG Factory,,,,,,,,,,2019-08-22 00:00:00,2019-02-13
+791,Oninaki,,NS,Square Enix,Tokyo RPG Factory,,,,,,,,,,2019-08-22 00:00:00,2019-02-13
+792,Oninaki,,PC,Square Enix,Tokyo RPG Factory,,,,,,,,,,2019-08-22 00:00:00,2019-02-13
+793,Overkill's The Walking Dead,,XOne,505 Games,Overkill Software,,,,,,,,,,2019-02-06 00:00:00,2018-06-13
+794,Overkill's The Walking Dead,,PS4,505 Games,Overkill Software,,,,,,,,,,2019-02-06 00:00:00,2018-06-13
+795,Override: Mech City Brawl,,PC,Modus Games,The Balance Inc,,,,,,,,,,2018-12-04 00:00:00,2019-03-28
+796,Phobos Vector Prime: The First Ring,,PS4,Unknown,Gunstar Studio S.L.,,,,,,,,,,N/A,2018-05-07
+797,Pragmata,,XSX,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+798,Pragmata,,PC,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+799,Pragmata,,PS5,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+800,Project Resistance,,PS4,Capcom,Capcom,,,,,,,,,,2020-12-01 00:00:00,2019-11-08
+801,Project Resistance,,PC,Capcom,Capcom,,,,,,,,,,2020-12-01 00:00:00,2019-11-08
+802,Project Resistance,,XOne,Capcom,Capcom,,,,,,,,,,2020-12-01 00:00:00,2019-11-08
+803,Quantum Error,,PS4,TeamKill Media,TeamKill Media,,,,,,,,,,2021-12-01 00:00:00,2020-06-15
+804,Quantum Error,,PS5,TeamKill Media,TeamKill Media,,,,,,,,,,2021-12-01 00:00:00,2020-06-15
+805,RAD,,PC,Bandai Namco Entertainment,Double Fine Productions,,,,,,,,,,2019-08-20 00:00:00,2019-06-14
+806,RAD,,NS,Bandai Namco Entertainment,Double Fine Productions,6.0,,,,,,,,,2019-08-20 00:00:00,2019-04-02
+807,RAD,,PS4,Bandai Namco Entertainment,Double Fine Productions,,,,,,,,,,2019-08-20 00:00:00,2019-06-14
+808,RAD,,XOne,Bandai Namco Entertainment,Double Fine Productions,,,,,,,,,,2019-08-20 00:00:00,2019-06-14
+809,Ratchet & Clank: Rift Apart,,PS5,Sony Interactive Entertainment,Insomniac Games,,,,,,,,,,2021-12-01 00:00:00,2020-06-11
+810,Rebel Galaxy Outlaw,,PC,Double Damage Games,Double Damage Games,,,,,,,,,,2019-08-13 00:00:00,2019-07-21
+811,ReCore: Definitive Edition,,PC,Microsoft Studios,Armature Studio,,,,,,,,,,2018-09-14 00:00:00,2018-10-01
+812,ReCore: Definitive Edition,,XOne,Microsoft Studios,Armature Studio,,,,,,,,,,2017-08-29 00:00:00,2018-10-01
+813,Red Dead Redemption 2,,PC,Rockstar Games,Rockstar Games,,,,,,,,,,2019-11-05 00:00:00,2019-10-05
+814,Resident Evil,,XOne,Capcom,Capcom,,,,,,,,,,2015-01-20 00:00:00,2018-09-04
+815,Resident Evil,,NS,Capcom,Capcom,,,,,,,,,,2019-05-21 00:00:00,2019-04-03
+816,Resident Evil,,PS4,Capcom,Capcom,,,,,,,,,,2015-01-20 00:00:00,2018-09-04
+817,Resident Evil 2,,PC,Capcom,Capcom,,,,,,,,,,2019-01-25 00:00:00,2018-11-06
+818,Resident Evil 2,,XOne,Capcom,Capcom,,,,,,,,,,2019-01-25 00:00:00,2018-11-06
+819,Resident Evil 2,,PS4,Capcom,Capcom,8.0,,,,,,,,,2019-01-25 00:00:00,2018-11-06
+820,Resident Evil 3,,XOne,Capcom,Capcom,,,,,,,,,,2020-04-03 00:00:00,2019-12-10
+821,Resident Evil 3,,PS4,Capcom,Capcom,7.0,,,,,,,,,2020-04-03 00:00:00,2019-12-10
+822,Resident Evil 3,,PC,Capcom,Capcom,,,,,,,,,,2020-04-03 00:00:00,2019-12-10
+823,Resident Evil 4,,NS,Capcom,Capcom,,,,,,,,,,2019-05-21 00:00:00,2019-04-03
+824,Resident Evil 8: Village,,XSX,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+825,Resident Evil 8: Village,,PS5,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+826,Resident Evil 8: Village,,PC,Capcom,Capcom,,,,,,,,,,2021-12-01 00:00:00,2020-06-12
+827,Resident Evil Zero,,PS4,Capcom,Capcom,,,,,,,,,,2016-01-19 00:00:00,2018-09-04
+828,Resident Evil Zero,,NS,Capcom,Capcom,,,,,,,,,,2019-05-21 00:00:00,2019-04-03
+829,Resident Evil Zero,,XOne,Capcom,Capcom,,,,,,,,,,2016-01-19 00:00:00,2018-09-04
+830,Resident Evil: Origins Collection,,NS,Capcom,Capcom,,,,,,,,,,2019-05-21 00:00:00,2019-03-22
+831,Resolutiion,,NS,Unknown,Monolith of Minds,6.0,,,,,,,,,N/A,2020-05-26
+832,Resolutiion,,PC,Unknown,Monolith of Minds,,,,,,,,,,N/A,2020-05-26
+833,Risk of Rain,,PS4,Chucklefish,Hopoo Games,,,,,,,,,,2017-04-26 00:00:00,2018-03-24
+834,Rust,,PS4,Facepunch Studios,Facepunch Studios,,,,,,,,,,2020-12-01 00:00:00,2019-11-24
+835,Rust,,Linux,Facepunch Studios,Facepunch Studios,,,,,,,,,,2018-02-08 00:00:00,2018-03-19
+836,Rust,,XOne,Facepunch Studios,Facepunch Studios,,,,,,,,,,2020-12-01 00:00:00,2019-11-24
+837,Sakuna: Of Rice and Ruin,,NS,Xseed Games,Edelweiss,,,,,,,,,,2020-12-01 00:00:00,2019-08-06
+838,Samantha Swift and the Fountains of Fate,,PC,Mumbo Jumbo,Mumbo Jumbo,,,,,,,,,,2011-03-08 00:00:00,2018-12-20
+839,Samantha Swift and the Mystery from Atlantis,,PC,Unknown,Mumbo Jumbo,,,,,,,,,,N/A,2018-12-20
+840,Scavengers,,PC,Unknown,Midwinter,,,,,,,,,,N/A,2018-12-06
+841,Secret Neighbor,,XOne,TinyBuild Games,Dynamic Pixels,,,,,,,,,,2019-10-24 00:00:00,2019-12-09
+842,Secret Neighbor,,PC,TinyBuild Games,Dynamic Pixels,,,,,,,,,,2019-10-24 00:00:00,2019-12-09
+843,Senua's Saga: Hellblade 2,,XSX,Xbox Game Studios,Ninja Theory,,,,,,,,,,2021-12-01 00:00:00,2019-12-13
+844,Senua's Saga: Hellblade 2,,PC,Xbox Game Studios,Ninja Theory,,,,,,,,,,2021-12-01 00:00:00,2020-01-10
+845,Shadow of the Tomb Raider,,PC,Square Enix,Eidos Montreal,,,,,,,,,,2018-09-14 00:00:00,2018-09-12
+846,Shakedown: Hawaii,,Wii,Unknown,Vblank Entertainment Inc.,,,,,,,,,,N/A,2020-06-26
+847,Shakedown: Hawaii,,WiiU,Unknown,Vblank Entertainment Inc.,,,,,,,,,,N/A,2020-06-26
+848,Shenmue I & II,,PC,Sega,Sega,,,,,,,,,,2018-08-21 00:00:00,2018-07-28
+849,Shenmue III,,PC,Deep Silver,Ys Net,,,,,,,,,,2019-11-19 00:00:00,2019-04-07
+850,Shenmue III,,PS4,Deep Silver,Ys Net,7.0,,,,,,,,,2019-11-19 00:00:00,2019-04-07
+851,Shinsekai: Into the Depths,,iOS,Unknown,Capcom,,,,,,,,,,N/A,2020-04-08
+852,Shinsekai: Into the Depths,,NS,Unknown,Capcom,7.0,,,,,,,,,N/A,2020-04-03
+853,Skull & Bones,,PC,Ubisoft,Ubisoft Singapore,,,,,,,,,,2020-12-01 00:00:00,2019-06-20
+854,Skull & Bones,,XOne,Ubisoft,Ubisoft Singapore,,,,,,,,,,2020-12-01 00:00:00,2019-06-20
+855,Skull & Bones,,PS4,Ubisoft,Ubisoft Singapore,,,,,,,,,,2020-12-01 00:00:00,2019-06-20
+856,Solar Ash,,PS4,Annapurna Interactive,Heart Machine,,,,,,,,,,2021-12-01 00:00:00,2020-06-16
+857,Solar Ash,,PC,Annapurna Interactive,Heart Machine,,,,,,,,,,2021-12-01 00:00:00,2020-06-16
+858,Solar Ash,,PS5,Annapurna Interactive,Heart Machine,,,,,,,,,,2021-12-01 00:00:00,2020-06-16
+859,Space Pilgrim Episode III: Delta Pavonis,,PC,Unknown,Pilgrim Adventures,,,,,,,,,,N/A,2019-03-29
+860,Sparklite,,PC,Unknown,Red Blue Games,,,,,,,,,,N/A,2019-11-14
+861,Sparklite,,XOne,Unknown,Red Blue Games,,,,,,,,,,N/A,2019-11-14
+862,Sparklite,,NS,Unknown,Red Blue Games,8.0,,,,,,,,,N/A,2019-11-14
+863,Sparklite,,PS4,Unknown,Red Blue Games,,,,,,,,,,N/A,2019-11-14
+864,Spelunky 2,,PC,"Mossmouth, LLC","Mossmouth, LLC",,,,,,,,,,2020-12-01 00:00:00,2019-07-02
+865,Spelunky 2,,PS4,"Mossmouth, LLC","Mossmouth, LLC",,,,,,,,,,2020-12-01 00:00:00,2019-07-02
+866,Sphinx and the Cursed Mummy,,PC,THQ Nordic,Eurocom,,,,,,,,,,2017-11-10 00:00:00,2018-12-30
+867,Sphinx and the Cursed Mummy,,Linux,THQ Nordic,Eurocom,,,,,,,,,,2017-11-10 00:00:00,2018-12-30
+868,Sphinx and the Cursed Mummy,,NS,THQ Nordic,Eurocom,7.0,,,,,,,,,2019-01-29 00:00:00,2018-12-30
+869,Spirit of the North,,PS4,Unknown,Infuse Studio,4.0,,,,,,,,,N/A,2019-11-17
+870,Star Child,,PS4,Unknown,Playful Corp.,,,,,,,,,,N/A,2018-06-14
+871,Star Child,,XOne,Unknown,Playful Corp.,,,,,,,,,,N/A,2018-06-14
+872,Star Wars Jedi: Fallen Order,,PC,Electronic Arts,Respawn Entertainment,,,,,,,,,,2019-11-15 00:00:00,2019-04-13
+873,Star Wars Jedi: Fallen Order,,XOne,Electronic Arts,Respawn Entertainment,,,,,,,,,,2019-11-15 00:00:00,2019-04-13
+874,Star Wars Jedi: Fallen Order,,PS4,Electronic Arts,Respawn Entertainment,6.0,,,,,,,,,2019-11-15 00:00:00,2019-04-13
+875,Starlink: Battle for Atlas,,PC,Ubisoft,Ubisoft,,,,,,,,,,2019-04-30 00:00:00,2020-01-30
+876,State of Decay 2,,PC,Microsoft Studios,Undead Labs,,,,,,,,,,2018-05-22 00:00:00,2018-11-18
+877,State of Decay: Year One Survival Edition,,PC,Nordic Games,Undead Labs,,,,,,,,,,2016-08-09 00:00:00,2018-11-19
+878,Stray,,PS4,Annapurna Interactive,Blue Twelve Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-17
+879,Stray,,PC,Annapurna Interactive,Blue Twelve Studio,,,,,,,,,,2021-12-01 00:00:00,2020-06-17
+880,Summer in Mara,,NS,Unknown,Chibig,,,,,,,,,,N/A,2019-01-21
+881,Summer in Mara,,PS4,Unknown,Chibig,,,,,,,,,,N/A,2019-01-21
+882,Super Daryl Deluxe,,PC,Unknown,Dan & Gary Games,,,,,,,,,,N/A,2018-04-15
+883,Super Daryl Deluxe,,PS4,Unknown,Dan & Gary Games,,,,,,,,,,N/A,2018-04-15
+884,Super Kirby Clash,,NS,Nintendo,Nintendo,,,,,,,,,,2019-09-04 00:00:00,2019-09-04
+885,System Shock 3,,PC,Unknown,OtherSide Entertainment,,,,,,,,,,N/A,2019-03-20
+886,Tamarin,,PC,Unknown,Chameleon Games,,,,,,,,,,N/A,2019-04-24
+887,Tamarin,,PS4,Unknown,Chameleon Games,,,,,,,,,,N/A,2019-04-24
+888,Terraria,,NS,505 Games,Re-Logic,7.0,,,,,,,,,2019-06-27 00:00:00,2019-09-23
+889,The Amazing Spider-Man (2012),,iOS,Unknown,Gameloft,,,,,,,,,,N/A,2018-03-15
+890,The Aquatic Adventure of the Last Human,,PC,YCJY,YCJY,,,,,,,,,,2016-01-19 00:00:00,2018-12-22
+891,The Aquatic Adventure of the Last Human,,PS4,Digerati,YCJY,,,,,,,,,,2018-01-23 00:00:00,2018-12-22
+892,The Aquatic Adventure of the Last Human,,XOne,Digerati,YCJY,,,,,,,,,,2018-01-19 00:00:00,2018-12-22
+893,The Aquatic Adventure of the Last Human,,NS,Digerati,YCJY,7.0,,,,,,,,,2019-01-03 00:00:00,2018-12-22
+894,The Blackout Club,,XOne,Unknown,Question,6.0,,,,,,,,,N/A,2019-09-04
+895,The Blackout Club,,PC,Unknown,Question,,,,,,,,,,N/A,2019-09-04
+896,The Church in the Darkness,,PS4,Paranoid Productions,Paranoid Productions,,,,,,,,,,2019-08-02 00:00:00,2019-07-11
+897,The Church in the Darkness,,PC,Paranoid Productions,Paranoid Productions,,,,,,,,,,2019-08-02 00:00:00,2018-02-11
+898,The Church in the Darkness,,XOne,Paranoid Productions,Paranoid Productions,3.0,,,,,,,,,2019-08-02 00:00:00,2019-07-11
+899,The Church in the Darkness,,NS,Paranoid Productions,Paranoid Productions,,,,,,,,,,2019-08-02 00:00:00,2019-07-24
+900,The Fall Part 2: Unbound,,PC,Unknown,Over the Moon,,,,,,,,,,N/A,2018-01-24
+901,The Fall Part 2: Unbound,,XOne,Unknown,Over the Moon,,,,,,,,,,N/A,2018-01-24
+902,The Fall Part 2: Unbound,,Linux,Unknown,Over the Moon,,,,,,,,,,N/A,2018-01-24
+903,The Fall Part 2: Unbound,,NS,Over The Moon,Over the Moon,5.0,,,,,,,,,2018-02-13 00:00:00,2018-02-07
+904,The Fall Part 2: Unbound,,PS4,Unknown,Over the Moon,,,,,,,,,,N/A,2018-01-24
+905,The Final Station,,PS4,Unknown,TinyBuild Games,,,,,,,,,,N/A,2018-04-25
+906,The Flame in the Flood,,PC,Curve Digital,The Molasses Flood,,,,,,,,,,2016-02-24 00:00:00,2019-12-03
+907,The Flame in the Flood,,XOne,Unknown,The Molasses Flood,,,,,,,,,,N/A,2019-12-03
+908,The Flame in the Flood,,PS4,Unknown,The Molasses Flood,,,,,,,,,,N/A,2019-12-03
+909,The friends of Ringo Ishikawa,,PC,yeo,yeo,,,,,,,,,,2018-05-17 00:00:00,2019-03-31
+910,The friends of Ringo Ishikawa,,NS,CIRCLE Entertainment,yeo,,,,,,,,,,2019-04-04 00:00:00,2019-03-31
+911,The Last of Us: Left Behind,,PS3,Sony Computer Entertainment,Naughty Dog,,,,,,,,,,2015-05-12 00:00:00,2018-09-24
+912,The Last of Us: Left Behind,,PS4,Sony Computer Entertainment,Naughty Dog,,,,,,,,,,2015-05-12 00:00:00,2018-09-24
+913,The Legend of Zelda: Breath of the Wild 2,,NS,Nintendo,Nintendo,,,,,,,,,,2020-12-01 00:00:00,2019-07-02
+914,The Lord of the Rings: Gollum,,PC,Daedalic Entertainment,Daedalic Entertainment,,,,,,,,,,2021-12-01 00:00:00,2020-01-10
+915,The Lord of the Rings: Gollum,,XSX,Daedalic Entertainment,Daedalic Entertainment,,,,,,,,,,2021-12-01 00:00:00,2020-01-10
+916,The Lord of the Rings: Gollum,,PS5,Daedalic Entertainment,Daedalic Entertainment,,,,,,,,,,2021-12-01 00:00:00,2020-01-10
+917,The Outlast Trials,,PC,Unknown,Red Barrels,,,,,,,,,,N/A,2019-12-06
+918,The Persistence,,NS,Perp Games,Firesprite,,,,,,,,,,2020-05-21 00:00:00,2020-05-01
+919,The Persistence,,XOne,Perp Games,Firesprite,,,,,,,,,,2020-05-21 00:00:00,2020-05-01
+920,The Persistence,,PC,Perp Games,Firesprite,,,,,,,,,,2020-05-21 00:00:00,2020-05-01
+921,The Sinking City,,PC,Bigben Interactive,Frogwares,,,,,,,,,,2019-06-27 00:00:00,2019-05-04
+922,The Sinking City,,XOne,Bigben Interactive,Frogwares,,,,,,,,,,2019-06-27 00:00:00,2019-05-04
+923,The Sinking City,,PS4,Bigben Interactive,Frogwares,,,,,,,,,,2019-06-27 00:00:00,2019-05-04
+924,The Surge 2,,PS4,Focus Home Interactive,DECK13 Interactive,,,,,,,,,,2019-09-24 00:00:00,2019-03-24
+925,The Surge 2,,PC,Focus Home Interactive,DECK13 Interactive,,,,,,,,,,2019-09-24 00:00:00,2019-03-24
+926,The Surge 2,,XOne,Focus Home Interactive,DECK13 Interactive,7.0,,,,,,,,,2019-09-24 00:00:00,2019-03-24
+927,The Survivalists,,NS,Team17,Team17,,,,,,,,,,2020-12-01 00:00:00,2019-12-10
+928,The Survivalists,,PS4,Team17,Team17,,,,,,,,,,2020-12-01 00:00:00,2019-12-10
+929,The Survivalists,,PC,Team17,Team17,,,,,,,,,,2020-12-01 00:00:00,2019-12-10
+930,The Survivalists,,XOne,Team17,Team17,,,,,,,,,,2020-12-01 00:00:00,2019-12-10
+931,The Walking Dead: Saints and Sinners,,PC,Skydance Interactive,Skydance Interactive,,,,,,,,,,2020-01-23 00:00:00,2019-10-05
+932,The Wonderful 101: Remastered,,PC,PlatinumGames,PlatinumGames,6.0,,,,,,,,,2020-05-19 00:00:00,2020-02-13
+933,The Wonderful 101: Remastered,,NS,PlatinumGames,PlatinumGames,,,,,,,,,,2020-05-19 00:00:00,2020-02-13
+934,The Wonderful 101: Remastered,,PS4,PlatinumGames,PlatinumGames,,,,,,,,,,2020-05-19 00:00:00,2020-02-13
+935,The World Next Door,,NS,VIZ Media,Rose City Games,,,,,,,,,,2019-03-28 00:00:00,2019-03-22
+936,Those Who Remain,,NS,Wired Productions,Camel 101,,,,,,,,,,2019-12-01 00:00:00,2019-08-10
+937,Those Who Remain,,PS4,Wired Productions,Camel 101,,,,,,,,,,2019-12-01 00:00:00,2019-08-10
+938,Those Who Remain,,PC,Wired Productions,Camel 101,,,,,,,,,,2019-12-01 00:00:00,2019-08-10
+939,Those Who Remain,,XOne,Wired Productions,Camel 101,,,,,,,,,,2019-12-01 00:00:00,2019-08-10
+940,Thunder Castle,,Int,INTV Corporation,Mattel,,,,,,,,,,1986-01-01 00:00:00,2018-01-13
+941,Touhou Luna Nights,,NS,Vaka Game Magazine,Vaka Game Magazine,,,,,,,,,,2019-12-01 00:00:00,2019-07-30
+942,Transistor,,NS,Supergiant Games,Supergiant Games,,,,,,,,,,2018-11-01 00:00:00,2018-11-04
+943,Travis Strikes Again: No More Heroes,,PC,Marvelous,Grasshopper Manufacture,,,,,,,,,,2019-10-17 00:00:00,2019-08-06
+944,Travis Strikes Again: No More Heroes,,PS4,Marvelous,Grasshopper Manufacture,,,,,,,,,,2019-10-17 00:00:00,2019-08-06
+945,Tribes of Midgard,,PC,Gearbox Publishing,Norsfell,,,,,,,,,,2021-12-01 00:00:00,2020-06-17
+946,Tribes of Midgard,,PS5,Gearbox Publishing,Norsfell,,,,,,,,,,2021-12-01 00:00:00,2020-06-17
+947,Trine 3: The Artifacts of Power,,PS4,Frozenbyte,Frozenbyte,,,,,,,,,,2015-12-22 00:00:00,2018-10-27
+948,Trine 4: The Nightmare Prince,,PC,Modus Games,Frozenbyte,,,,,,,,,,2019-10-08 00:00:00,2019-06-08
+949,Trine 4: The Nightmare Prince,,PS4,Modus Games,Frozenbyte,,,,,,,,,,2019-10-08 00:00:00,2019-06-08
+950,Trine 4: The Nightmare Prince,,XOne,Modus Games,Frozenbyte,,,,,,,,,,2019-10-08 00:00:00,2019-06-08
+951,Trine 4: The Nightmare Prince,,NS,Modus Games,Frozenbyte,7.0,,,,,,,,,2019-10-08 00:00:00,2019-06-08
+952,TumbleSeed,,NS,aeiowu,Team TumbleSeed,,7.0,,,,,,,,2017-05-02 00:00:00,2018-01-11
+953,Tunic,,XOne,Finji,Andrew Shouldice,,,,,,,,,,2019-01-01 00:00:00,2018-06-11
+954,Tunic,,PC,Finji,Andrew Shouldice,,,,,,,,,,2018-12-30 00:00:00,2018-02-11
+955,Unexplored 2,,PC,Unknown,Ludomotion,,,,,,,,,,N/A,2019-06-10
+956,Unturned,,PC,Smartly Dressed Games,Smartly Dressed Games,,,,,,,,,,2017-07-07 00:00:00,2019-03-26
+957,Utawarerumono: ZAN,,PS4,NIS America,Aqua Plus,,,,,,,,,,2019-09-10 00:00:00,2019-08-13
+958,Vampire: The Masquerade - Bloodlines 2,,XOne,Paradox Interactive,Hardsuit Labs,,,,,,,,,,2020-12-31 00:00:00,2019-06-16
+959,Vampire: The Masquerade - Bloodlines 2,,PS4,Paradox Interactive,Hardsuit Labs,,,,,,,,,,2020-12-31 00:00:00,2019-06-16
+960,Vampire: The Masquerade - Bloodlines 2,,XSX,Paradox Interactive,Paradox Interactive,,,,,,,,,,2020-12-01 00:00:00,2020-05-07
+961,Vampire: The Masquerade - Bloodlines 2,,PS5,Paradox Interactive,Paradox Interactive,,,,,,,,,,2020-12-01 00:00:00,2020-06-17
+962,Venture,,Int,Coleco,Coleco,,,,,,,,,,1983-01-01 00:00:00,2018-01-13
+963,Warlocks 2: God Slayers,,NS,Unknown,Frozen District,,,,,,,,,,N/A,2019-07-19
+964,Warlocks 2: God Slayers,,PC,Unknown,Frozen District,7.0,,,,,,,,,N/A,2019-07-19
+965,Watch Dogs Legion,,XSX,Ubisoft,Ubisoft Toronto,,,,,,,,,,2020-12-01 00:00:00,2020-06-17
+966,Watch Dogs Legion,,PC,Ubisoft,Ubisoft,,,,,,,,,,2020-12-06 00:00:00,2019-06-18
+967,Watch Dogs Legion,,PS5,Ubisoft,Ubisoft Toronto,,,,,,,,,,2020-12-01 00:00:00,2020-06-17
+968,Watch Dogs Legion,,XOne,Ubisoft,Ubisoft,,,,,,,,,,2020-12-06 00:00:00,2019-06-18
+969,Watch Dogs Legion,,PS4,Ubisoft,Ubisoft,,,,,,,,,,2020-12-06 00:00:00,2019-06-18
+970,Wayward Tide,,PC,Unknown,Chucklefish,,,,,,,,,,N/A,2019-07-02
+971,Wildfire,,PC,Humble Bundle,Sneaky Bastards,,,,,,,,,,2020-05-26 00:00:00,2020-05-05
+972,Windbound,,PC,Deep Silver,5 Lives Studios,,,,,,,,,,2020-08-28 00:00:00,2020-07-06
+973,Windbound,,XOne,Deep Silver,5 Lives Studios,,,,,,,,,,2020-08-28 00:00:00,2020-07-06
+974,Windbound,,NS,Deep Silver,5 Lives Studios,,,,,,,,,,2020-08-28 00:00:00,2020-07-06
+975,Windbound,,PS4,Deep Silver,5 Lives Studios,,,,,,,,,,2020-08-28 00:00:00,2020-07-06
+976,World to the West,,NS,Rain Games,Rain Games,,,,,,,,,,2018-01-18 00:00:00,2018-09-07
+977,Yakuza 1&2 HD for Wii U,,WiiU,Sega,Sega,,,,,,,,,,2013-08-08 00:00:00,2018-08-26
+978,Yakuza 5,,PS4,Sega,Sega,,,,,,,,,,2020-02-11 00:00:00,2019-04-05
+979,Yakuza Kiwami,,PC,Sega,Sega,,,,,,,,,,2019-02-19 00:00:00,2020-04-25
+980,Yakuza Kiwami,,XOne,Sega,Sega,,,,,,,,,,2020-04-21 00:00:00,2020-04-25
+981,Yakuza: Like A Dragon,,PC,Sega,Sega,,,,,,,,,,2020-12-01 00:00:00,2020-05-07
+982,Yakuza: Like A Dragon,,XSX,Sega,Sega,,,,,,,,,,2020-12-01 00:00:00,2020-05-07
+983,Yakuza: Like A Dragon,,XOne,Sega,Sega,,,,,,,,,,2020-12-01 00:00:00,2020-05-07
+984,Zelda's Adventure,,CDi,Philips Interactive Media,Viridis Corporation,,,,,,,,,,1994-06-05 00:00:00,2018-04-17
